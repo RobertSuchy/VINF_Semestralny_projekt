@@ -2,3 +2,6 @@
 Lib
 Scripts
 pyvenv.cfg
+data
+hadoop-common-2.2.0-bin-master
+share

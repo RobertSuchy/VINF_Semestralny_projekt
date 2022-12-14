@@ -2,8 +2,10 @@ import re
 import multiprocessing
 from time import time
 
+from pyspark.sql import SparkSession
+
 def process(file_name):
-    with open("C:\\Users\\Róbert Suchý\\Desktop\\" + file_name, "r", encoding="utf-8") as file:
+    with open("data/" + file_name, "r", encoding="utf-8") as file:
         in_page = False
         page = ""
         title = None
@@ -32,22 +34,37 @@ def process(file_name):
                 tmp = re.search(r"production.*((?<== ).*)", page)
                 if tmp:
                     production = tmp.group(1)
+                    if "&amp;ndash;" in production:
+                        production = production.replace("&amp;ndash;", "-")
 
-                tmp = re.search(r"manufacturer.*((?<== ).*)", page)
+                    elif " - " in production:
+                        production = production.replace(" - ", "-")
+
+                    elif " -" in production:
+                        production = production.replace(" -", "-")
+
+                    elif "- " in production:
+                        production = production.replace("- ", "-")
+
+                tmp = re.search(r"manufacturer.*((?<== \[\[).+?(?=(\]\])|\|))", page)
                 if tmp:
                     manufacturer = tmp.group(1)
 
-                tmp = re.search(r"engine.*((?<== ).*)", page)
+                tmp = re.search(r"engine.*((?!<=)\d{4}(.\d)?(?=(cc|\|cc)))|engine.*((?!<=)\d{3}(.\d)?(?=(cc|\|cc)))"
+                                r"|engine.*((?!<=)\d{2}(.\d)?(?=(cc|\|cc)))|(\d+(.\d)?(?=(cc| cc)))", page)
                 if tmp:
-                    engine = tmp.group(1)
+                    for group in tmp.groups():
+                        if group:
+                            engine = group
+                            break
 
-                tmp = re.search(r"transmission.*((?<== ).*)", page)
+                tmp = re.search(r"transmission.*((?!<== ).*(three|four|five|six|3|4|5|6)( |-)speed)", page, re.IGNORECASE)
                 if tmp:
                     transmission = tmp.group(1)
 
-                if production:
+                if production and any(char.isdigit() for char in production) and len(production) < 150:
                     print("Title: " + title + "\n" + "Production: " + production + "\n" + "Manufacturer: " + manufacturer
-                          + "\n" + "Engine: " + engine + "\n" + "Transmission: " + transmission + "\n")
+                          + "\n" + "Engine: " + str(engine) + " cc\n" + "Transmission: " + transmission + "\n")
                 in_page = False
                 page = ""
                 title = None
@@ -68,7 +85,15 @@ if __name__ == "__main__":
         "Wikipedia-20221012151547.xml"
     ]
     start_time = time()
-    pool = multiprocessing.Pool(multiprocessing.cpu_count())
-    pool.map(process, files)
+    spark = SparkSession.builder.appName("VINF").master("local").getOrCreate()
+    sc = spark.sparkContext
+    rdd = sc.parallelize(files, 8)
+    rdd.map(process).collect()
+
+    # for file in files:
+    #     process(file)
+
+    # pool = multiprocessing.Pool(multiprocessing.cpu_count())
+    # pool.map(process, files)
     time = time() - start_time
     print(time)
