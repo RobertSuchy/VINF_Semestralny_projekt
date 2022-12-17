@@ -1,0 +1,1137 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.40.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>BMW R1200R</title>
+    <ns>0</ns>
+    <id>24114795</id>
+    <revision>
+      <id>957231597</id>
+      <parentid>909656241</parentid>
+      <timestamp>2020-05-17T19:18:17Z</timestamp>
+      <contributor>
+        <username>Headinthedoor</username>
+        <id>2451584</id>
+      </contributor>
+      <comment>Reflecting end of production as of 2019 model year</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4030" xml:space="preserve">{{Infobox motorcycle
+| name             = BMW R1200R
+| image            = BMW Motorcycles R1200R 01 (raboe).jpg
+| manufacturer     = [[BMW Motorrad]]
+| production       = 2006–2018
+| successor        = R1250R
+| predecessor      = [[BMW R1150R|R1150R]]
+| class            = [[Types of motorcycles#Standard|Standard]]
+| engine           = {{cvt|1170|cc}}, 2-cylinder, 8-valve [[Flat engine|boxer]], [[oilhead|air/oil cooled]]&lt;br /&gt;(2015-2018)Air/liquid-cooled 4-stroke flat twin engine, four valves per cylinder, double overhead camshaft
+| bore_stroke      = {{cvt|101|x|73|mm}}
+| power            = {{ubl
+                     | '''2006–2014:'''
+                     | 
+                     | '''2015–2018:'''
+                     | {{cvt|125|hp|order=flip}} @ 7,750&amp;nbsp;rpm&lt;ref name="engine" /&gt;
+                     }}
+| torque           = {{ubl
+                     | '''2006–2014:'''
+                     | 
+                     | '''2015–2018:'''
+                     | {{cvt|92|lbft|order=flip}} @ 6,500&amp;nbsp;rpm&lt;ref name="engine" /&gt;
+                     }}
+| top_speed        = 
+| transmission     = 6-speed, [[drive shaft|shaft drive]]
+| suspension       = {{ubl
+                     | '''2006–2014:'''
+                     | Front: BMW Telelever
+                     | Rear: BMW Paralever
+                     | '''2015–2018:'''
+                     | Front: 45&amp;nbsp;mm inverted cartridge fork
+                     | Rear: single-sided swing arm with BMW EVO Paralever
+                     }}
+| brakes           = {{ubl
+                     | BMW Motorrad Integral ABS (part-integral)
+                     | Front: 4-piston EVO calipers with floating 320&amp;nbsp;mm discs
+                     | Rear: 2-piston floating caliper with single 265&amp;nbsp;mm disc
+                     }}
+| tires            = {{ubl
+                     | Front: 120/70ZR17 on 3.50×17 cast aluminum wheel
+                     | Rear: 180/55ZR17 on 5.50×17 cast aluminum wheel
+                     }}
+| rake_trail       = 27.1°, {{cvt|4.3|in|disp=flip}}
+| wheelbase        = {{cvt|1495|mm}}
+| length           = {{cvt|2145|mm}}
+| width            = {{cvt|872|mm}}
+| height           = {{cvt|1285|mm}}
+| dry_weight       = 
+| wet_weight       = 
+| fuel_capacity    = {{cvt|18|l}}
+| fuel_consumption = 
+| related          = [[BMW R1200RT|R1200RT]], [[BMW R1200GS|R1200GS]], [[BMW_R1200ST|R1200ST]]
+|Successor=R1250R}}
+
+The '''BMW R1200R''' is a [[Types of motorcycles#Standard|standard]] motorcycle introduced in 2006 by [[BMW Motorrad]].&lt;ref name="telegraph"&gt;{{cite web | url = https://www.telegraph.co.uk/motoring/motorbikes/2742280/Tactile-victory.html | title= Tactile Victory | first= Kevin | last= Ash |authorlink=Kevin Ash | date= 15 July 2006 | accessdate= 26 August 2009 | publisher= [[The Daily Telegraph|Daily Telegraph]]}}&lt;/ref&gt; It replaces the [[BMW R1150R|R1150R]], compared with which it has a {{cvt|55|lb}} weight saving and 28% increase in power.&lt;ref name="telegraph" /&gt;
+
+[[File:2015 bmw r1200r.jpg|left|thumb|2015 BMW R1200R]]
+For model year 2015, a completely new R1200R with the same {{cvt|125|hp}} liquid/air-cooled engine as the 2014/2015 [[BMW R1200RT|R1200RT]], but weighing 100 pounds less, was introduced.&lt;ref name="engine"&gt;{{cite web |url=http://www.bmwmotorcycles.com/us/en/index.html?gclid=CIaq7vPY3tQCFVi4wAodd-QKqg//|title=R 1200 R | publisher=[[BMW]]|accessdate=June 27, 2017|year= 2017 }}&lt;/ref&gt;{{better source|date=July 2019|reason=see [[WP:ABOUTSELF]] }}
+
+For the 2019 Model Year, the R1200R was succeeded by the R1250R. The R1250R features a newer dual cam profile engine and has a TFT display.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat|BMW R1200R}}
+* {{Official website|http://www.bmw-motorrad.com/com/en/bikes/urban/r1200r/r1200r_main.html}}
+
+{{BMW motorcycles}}
+{{Motorcycle-stub}}
+[[Category:BMW motorcycles|R1200R]]
+[[Category:Motorcycles powered by flat engines]]
+[[Category:Shaft drive motorcycles]]
+[[Category:Standard motorcycles]]
+[[Category:Motorcycles introduced in 2006]]</text>
+      <sha1>i40pzllrdfq7ejungdq0nmbuu1numnf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ducati 999</title>
+    <ns>0</ns>
+    <id>4995981</id>
+    <revision>
+      <id>1115386966</id>
+      <parentid>1115386437</parentid>
+      <timestamp>2022-10-11T06:20:16Z</timestamp>
+      <contributor>
+        <ip>194.103.203.170</ip>
+      </contributor>
+      <comment>Still figuring this out</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6689" xml:space="preserve">{{refimprove|date=September 2011}}
+{{Infobox Motorcycle
+| name = Ducati 999
+| image = Ducati 999 2005.jpg
+| image_size = 300px
+| aka = "Nine-nine-nine" and "Triple nine"
+| manufacturer = [[Ducati Motor Holding|Ducati]]
+| production = 2003-2006
+| predecessor = [[Ducati 998]]
+| successor = [[Ducati 1098]]
+| parent_company = Ducati Motor Holdings, SpA
+| class = [[Sport bike]]
+| platform =
+| engine = 998—999&amp;nbsp;cc, liquid cooled, four stroke, 90° [[Ducati L-twin engine|L-twin]] DOHC, 4 [[desmodromic valve]]s per cylinder
+| bore_stroke      = 998 cc: 100 mm x 63.5 mm&lt;br&gt;999 cc: 104 mm x 58.8 mm (999R)
+| transmission = 6-speed constant-mesh [[sequential manual transmission|sequential manual]]
+| rake =
+| trail =
+| wheelbase =
+| length =
+| width =
+| seat_height =
+| dry_weight =
+| wet_weight =
+| fuel_economy =
+| fuel_capacity =
+| related = [[Ducati 749]]
+| similar = [[Aprilia RSV1000R]]&lt;br /&gt;[[Honda CBR1000RR]]&lt;br /&gt;[[Kawasaki Ninja ZX-10R]]&lt;br /&gt;[[MV Agusta F4 series|MV Agusta F4 1000 S]]&lt;br /&gt;[[Suzuki GSX-R1000]]&lt;br /&gt;[[Yamaha YZF-R1]]
+}}
+[[Image:2006Ducati999R-001.jpg|thumb|right|2006 Ducati 999R Xerox]]
+
+The '''Ducati 999''' is a [[Types of motorcycles#Sport bike|sport bike]] made by [[Ducati]] from 2003 to 2006. It superseded the [[Massimo Tamburini]] designed [[Ducati 916]], [[Ducati 996]] and [[Ducati 998]] range of superbikes. This motorcycle enjoyed great success in [[Superbike World Championship|World Superbike]], and was raced in the series through the 2007 season, despite no longer being produced, pending rules changes by the series' governing body, [[Fédération Internationale de Motocyclisme|FIM]], to allow competition of the new [[Ducati 1098]].
+
+The 999 was designed by [[Pierre Terblanche]], amid much controversy over its styling. It is known as a high performance, race oriented motorcycle. With its traditional [[Ducati]] L Twin Desmodromic Valve actuated engine layout, it has a linear power delivery, with high power and torque figures available even at low RPM. Additionally, with its high spec suspension and trellis chassis, it is one of the finest handling motorcycles for its time.
+
+Subsequently, more powerful 999S and 999R versions were introduced, both capable of 0-62&amp;nbsp;mph (0-100&amp;nbsp;km/h) in under three seconds; and a top speed of over {{convert|170|mph|abbr=on|-1}}.
+
+The 2005 Ducati 999S won the Maxisport category for the prestigious international [[Masterbike|Masterbike 2005]] comparison and finished second overall. It has received critical acclaim from many corners, such as MCN of the U.K. which called it "simply the best V-Twin on the planet", and Motorbikestoday.com, which described it as "the most desirable, most exciting roadbike on the planet" in 2004. MotorcycleUSA.com described it as "stupendous" and "the epitome of V-Twin power." Also known as “the F1 of the motorcycles” in 2005.
+
+==Racing==
+From the start the 999 was very successful in the [[Superbike World Championship]], winning world championships in:
+* 2003 [[Neil Hodgson]]
+* 2004 [[James Toseland]]
+* 2006 [[Troy Bayliss]]
+[[Gregorio Lavilla]] also won the [[2005_British_Superbike_Championship_season|2005 BSB Title]] on a 999 F04.
+
+==Specifications==
+{| class="wikitable" style="text-align: center;"
+|-
+!
+! 999  (2003)
+! 999  (2006)
+! 999S (2006)
+! 999R (2006)
+! 999R Xerox (2006)
+|-
+! Engine
+| colspan=5 | [[Ducati L-twin engine|L-twin]] cylinder, 4 valves per cylinder Testastretta Desmodromic; liquid cooled
+|-
+! Displacement
+| colspan=3 | 997.46 cc
+| colspan=2 | 999 cc
+|-
+! Bore x Stroke
+| colspan=3 | {{convert|100.0|x|63.5|mm|1|abbr=on}} &lt;br&gt; 498.73 cc
+| colspan=2 | {{convert|104.0|x|58.8|mm|1|abbr=on}} &lt;br&gt; 499.5 cc
+|-
+! Compression Ratio
+| colspan=3 | 11.4:1
+| colspan=2 | 12.5;1
+|-
+! Power
+| {{convert|91|kW|PS hp|0|abbr=on}} @ 9,750&amp;nbsp;pm
+| {{convert|103|kW|PS hp|0|abbr=on}} @ 9,750&amp;nbsp;pm
+| {{convert|105.2|kW|PS hp|0|abbr=on}} @ 9,750&amp;nbsp;rpm
+| colspan=2 | {{convert|110|kW|PS hp|0|abbr=on}} @ 9,750&amp;nbsp;rpm
+|-
+! Torque
+| {{convert|10.4|kgm|Nm lbft|1|abbr=on}} @ 8,000&amp;nbsp;rpm
+| {{convert|11.1|kgm|Nm lbft|1|abbr=on}} @ 8,000&amp;nbsp;rpm
+| {{convert|11.4|kgm|Nm lbft|1|abbr=on}} @ 8,000&amp;nbsp;rpm
+| colspan=2 | {{convert|11.9|kgm|Nm lbft|1|abbr=on}} @ 8,000&amp;nbsp;rpm
+|-
+! Fuel injection
+| colspan=5 | Marelli electronic fuel injection, 54 mm throttle body
+|-
+! Exhaust
+| colspan=5 | Single steel exhaust with catalytic converter
+|-
+! Emissions
+| colspan=5 | Euro2
+|-
+! Gearbox
+| colspan=5 | 6-speed constant-mesh [[sequential manual transmission|sequential manual]]
+|-
+! Ratios
+| colspan=5 | 1st 37/15, 2nd 30/17, 3rd 28/20, 4th 26/22, 5th 24/23, 6th 23/24
+|-
+! Primary drive
+| colspan=5 | Straight cut gears; ratio 1.84
+|-
+! Final drive
+| colspan=5 | Chain; Front sprocket 15; Rear sprocket 36
+|-
+! Clutch
+| colspan=5 | Dry multiplate with hydraulic control
+|-
+! Frame
+| colspan=5 | Tubular steel trellis
+|-
+! Wheelbase
+| colspan=5 | 1420 mm / 55.9 in
+|-
+! Rake
+| colspan=5 | 23.5° - 24.5°
+|-
+! Front suspension
+| colspan=2 | Showa 43 mm upside-down fully adjustable fork with TiN surface treatment
+| colspan=3 | Öhlins 43 mm upside-down fully adjustable fork, with TiN surface treatment, for radial calipers
+|-
+! Front wheel travel
+| colspan=2 | 125 mm / 4.9 in
+| colspan=3 | 120 mm / 4.7 in
+|-
+! Front brake
+| colspan=2 | 2 x 320 mm semi-floating discs, 4-piston 4-pad caliper
+| colspan=3 | 2 x 320 mm semi-floating discs, 4-piston 4-pad radial caliper
+|-
+! Front wheel
+| colspan=3 | Y-shaped 5-spoke light alloy 3.50 x 17
+| colspan=2 | Y-shaped 5-spoke light alloy forged 3.50 x 17
+|-
+! Front tyre
+| colspan=5 | 120/70 ZR 17
+|-
+! Rear suspension
+| colspan=5 | Progressive linkage with fully adjustable Öhlins monoshock
+|-
+! Rear wheel travel
+| colspan=5 | 128 mm / 5 in
+|-
+! Rear brake
+| colspan=5 | 240 mm disc, 2-piston caliper
+|-
+! Rear wheel
+| colspan=3 | Y-shaped 5-spoke light alloy 5.50 x 17
+| colspan=2 | Y-shaped 5-spoke light alloy forged 5.50 x 17
+|-
+! Rear tyre
+| colspan=5 | 190/50 ZR 17
+|-
+! Fuel tank capacity
+| colspan=5 | {{convert|15.5|L|abbr=on}} (includes 3&amp;nbsp;L reserve)
+|-
+! Weight&lt;ref&gt;The weight excludes battery, lubricants and, where applicable, cooling liquid.&lt;/ref&gt;
+| colspan=2 | 199 kg / 439 lbs
+| colspan=2 | 186 kg / 410 lbs
+| colspan=2 | 181 kg / 399 lbs
+|-
+! Seat height
+| colspan=5 | 780 mm / 30.7 in
+|-
+! Versions
+| colspan=2 | Dual seat
+| Single seat&lt;br /&gt;Dual seat&lt;ref&gt;dual seat not available in North America.&lt;/ref&gt;
+| colspan=2 | Single seat
+|}
+
+==References==
+{{commonscat}}
+{{Reflist|colwidth=30em}}
+
+{{Ducati}}
+
+[[Category:Ducati motorcycles|999]]
+[[Category:Sport bikes]]
+[[Category:Motorcycles introduced in 2003]]
+[[Category:Motorcycles designed by Pierre Terblanche]]</text>
+      <sha1>hphuqbiyzia5ng94pxpvs4u3ergu5lf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Harley-Davidson Street</title>
+    <ns>0</ns>
+    <id>42215783</id>
+    <revision>
+      <id>1115344026</id>
+      <parentid>1114749816</parentid>
+      <timestamp>2022-10-11T00:37:24Z</timestamp>
+      <contributor>
+        <ip>2806:2A0:412:8DD9:4D21:A7CF:6C9:FBEB</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10314" xml:space="preserve">Jungkook just
+{{Short description|Motorcycle series manufactured by Harley-Davidson}}
+{{Infobox motorcycle
+|name             = Harley-Davidson Street 750 and 500
+|image=[[File:2014 Harley-Davidson Street 750 showroom side.jpg|frameless|upright=1.35]]
+|caption          =
+|aka              = 
+|manufacturer     = [[Harley-Davidson]] 
+|parent_company   = 
+|production       = 2014–2021
+|assembly         = [[Kansas City, Missouri|Kansas City]], Missouri, USA (US, Canada and Mexico){{sfn|Bornhop|2013a}}&lt;br /&gt;[[Bawal]], India (rest of world){{sfn|Bornhop|2013a}}
+|predecessor      = 
+|successor        = 
+|class            = [[Cruiser (motorcycle)|Cruiser]]
+|engine           =  60° [[Overhead camshaft|SOHC]], [[Water cooling|water-cooled]] [[V-twin engine|V-twin]] with balance shaft&lt;br /&gt;Street 750:{{convert|749|cc|cid|abbr=on}}&lt;br /&gt;Street 500: {{convert|494|cc|cid|abbr=on}}{{sfn|Bornhop|2013a}}
+|bore_stroke      = Street 750: {{Convert|85.0|×|66.0|mm|abbr=on|order=flip}}&lt;br /&gt;Street 500: {{Convert|69.0|×|66.0|mm|abbr=on|order=flip}}
+|compression      = Street 750: 10.5:1{{sfn|Canet|2014}}
+|top_speed        = 
+|power            = {{convert|53|hp|abbr=on}} (estimated) (Street 750)
+|torque           = {{Convert|47.9|lbft|abbr=on}} @ 4,000 rpm (Street 750){{sfn|''Hindustan Times''|2014}}&lt;br /&gt;{{Convert|30.24|lbft|abbr=on}} @ 4,000rpm (Street 500){{sfn|Ware|2018}}
+|ignition         = 
+|transmission     = 6 speed, belt drive
+|frame            = Steel
+|suspension       = Front: Telescopic forks&lt;br /&gt;Rear: Dual shocks, box section swingarm
+|brakes           = Front: Single-caliper disc&lt;br /&gt;Rear: Single-caliper disc
+|tires            = 100/80x17&lt;br /&gt;150/70x15, 140/75R15
+|rake_trail       = 32°, {{convert|4.5|in|mm|abbr=on}}{{sfn|Canet|2014}}
+|wheelbase        = {{convert|1511|mm|abbr=on|order=flip}}
+|length           = {{convert|2226|mm|abbr=on|order=flip}}
+|width            = {{convert|815|mm|abbr=on|order=flip}}
+|height           = {{convert|709|mm|abbr=on|order=flip}}
+|seat_height      = {{convert|25|in|abbr=on}}
+|dry_weight       = 
+|wet_weight       = {{convert|480|lb|abbr=on}} (claimed){{sfn|Bornhop|2013a}}{{sfn|Fleming|2013}}
+|fuel_capacity    = {{convert|3.5|USgal|L|abbr=on}}{{sfn|Canet|2014}}
+|oil_capacity     = 
+|fuel_consumption = 
+|turning_radius   = 
+|related          = [[Harley-Davidson VRSC]]
+|sp               =  US
+}}
+The '''Harley-Davidson Street de Isaías''' [[motorcycle]] series was announced by [[Harley-Davidson]] at the 2013 [[EICMA]] show in Milan for 2014 introduction, Harley's first all-new models in 13 years,{{sfn|Bornhop|2013a}}{{sfn|''Hindustan Times''|2014}} including Harley's first lightweight motorcycle since the 1974 Sprint.{{sfn|''Forbes''|2014}} The 750 is powered by a 749&amp;nbsp;cc displacement version of Harley's 60° SOHC [[V-twin]], water-cooled [[Harley-Davidson#Revolution engine|Revolution engine]] dubbed the Revolution X. The Street 500 has a 494&amp;nbsp;cc engine with a smaller bore but is otherwise identical.{{sfn|Bornhop|2013a}} Production for sale in the United States and Canada is done at Harley's Kansas City facility; production for the rest of the world, including engines, is done at the [[Harley-Davidson India]] subsidiary in [[Bawal]] with indigenous components.{{sfn|''Hindustan Times''|2014}}{{sfn|Bornhop|2013b}} Street series bikes are positioned as Harley's [[wikt:entry-level|entry-level]] models, with a price point that is the lowest for Harley's US lineup by over $1,200.
+
+==Harley-Davidson Street Rod==
+{{for|the V-Rod Street Rod|Harley-Davidson VRSC}}
+
+For 2017, Harley released the '''Street Rod''' based on the 750 Street model. This new model introduced new features such as higher output Revolution X engine {{convert|68.4|hp|abbr=on}} @ 8,750&amp;nbsp;rpm and {{Convert|47.2|lbft|abbr=on}} @ 4,000&amp;nbsp;rpm, 43 mm inverted front forks and piggyback reservoir rear shocks, drag-style bars and 17 inch wheels.&lt;ref name=rod&gt;{{cite web |url=http://www.cycleworld.com/harley-davidson-street-rod-750-cruiser-first-look-review|last=Hoyer |first=Mark |title=Harley-Davidson Street Rod 750 - FIRST LOOK REVIEW| magazine=[[Cycle World]]|access-date=March 10, 2017|date=March 9, 2017 }}&lt;/ref&gt; The new model, responding to market feedback that demanded a sporty standard, was meant to compete with bikes like the [[Yamaha]] [[Yamaha MT-07|FZ-07]] and [[Yamaha MT-09|FZ-09]].
+
+==Riders Edge Program==
+The Street 500 replaced the [[Buell Blast]] in Harley-Davidson's [[Motorcycle safety training|rider training]] program.{{sfn|Fleming|2013}}
+
+==Reactions==
+Speculation about Harley "[[outsourcing]]"&lt;!-- quoting original source; do not change this word--&gt; production of 500 and 750&amp;nbsp;cc models (called small-displacement in US press{{sfn|Cathcart|2011}}) to India began at least as early as 2011, along with harsh criticism that by not offering smaller bikes there, Harley "doesn't understand emerging markets".{{sfn|Beeler|2012}}
+
+''The New York Times'' also opined that Harley's move towards medium-displacement echoed that of other manufacturers for the developing world.
+{{cquote|The midsize is becoming a point of convergence. Commuter motorcycles are getting larger and more complex; from the other direction, Harley-Davidson recently unveiled its lighter Street 500 and Street 750 models.|author=Samanth Subramanian|source=''The New York Times'', January 3, 2014{{sfn|Subramanian|2014}}}}
+
+[[File:2014 Harley-Davidson Street 750 side view.jpg|thumb|2014 Harley-Davidson Street 750 side view]]
+{{clear}}
+
+==References==
+'''Citations'''
+{{Reflist|30em}}
+
+'''Sources'''
+*{{citation|title=Will Harley-Davidson outsource motorcycle production to India?|first=Alan |last=Cathcart|magazine=[[Motorcyclist (magazine)|Motorcyclist]]|date= April 6, 2011|url=http://www.motorcyclistonline.com/newsandupdates/motorcycle_news/122_1106_will_harley_davidson_outsource_motorcycle_production_to_india/}}
+*{{citation|title=No Sub-800cc Motorcycle for India? Why Harley-Davidson Doesn't Understand Emerging Markets|date=June 2, 2012|first=Jensen|last=Beeler|website=Asphalt &amp; Rubber|url=http://www.asphaltandrubber.com/oped/harley-davidson-developing-markets-strategy/}}
+*{{citation|title=REVEALED! 2014 HARLEY-DAVIDSON STREET 500 AND STREET 750|date=November 4, 2013a |first=Andrew |last=Bornhop|magazine=[[Cycle World]]|url=http://www.cycleworld.com/2013/11/04/2014-harley-davidson-street-500-and-street-750-revealed-at-eicma-2013/}}
+*{{citation|title=First Look: Harley-Davidson unveils new Street 500 and Street 750|date=November 4, 2013|first=Charles |last=Fleming|newspaper=[[The Los Angeles Times]]|url=http://articles.latimes.com/2013/nov/04/business/la-fi-mo-autos-harley-davidson-street-500-street-750-20131101}}
+*{{citation|first=Wes|last=Siler|title=Harley's Indian Gamble — 2014 Harley-Davidson Street 750 And 500|website=RideApart|date= November 4, 2013| url=http://rideapart.com/2013/11/2014-harley-davidson-street-750-and-500-2/}}
+*{{citation|title=WHERE IS IT MADE? 2014 HARLEY-DAVIDSON STREET 750 AND STREET 500 — Is this affordable new Harley from India? Or Kansas City? We tell you the complete story.|date=November 12, 2013b |first=Andrew |last=Bornhop |magazine=[[Cycle World]]|url=http://www.cycleworld.com/2013/11/12/where-is-it-made-2014-harley-davidson-street-750-and-street-500/}}
+*{{citation|title=A Cult Motorcycle From India Takes On the World|first=Samanth |last=Subramanian|newspaper=[[The New York Times]]|date=January 3, 2014|url=https://www.nytimes.com/2014/01/04/business/international/a-cult-bike-from-india-takes-on-the-world.html}}
+*{{citation|title=Harley-Davidson's Street 750 Debuts In India|author= Trefis Team |work=[[Forbes]]|date=January 16, 2014|url=https://www.forbes.com/sites/greatspeculations/2014/01/16/harley-davidsons-street-750-debuts-in-india/|ref={{harvid|Forbes|2014}}}}
+*{{citation|title=Why Your Next Bike May Come From India|date=January 28, 2014|first= Tim |last=Watson|website=RideApart| url=http://rideapart.com/2014/01/why-your-next-bike-may-come-from-india/}}
+*{{citation|title=Harley-Davidson India Launches Street 750 at Auto Expo 2014|newspaper=[[Mint (newspaper)|Mint]]|location=India|date=February 5, 2014|via=HighBeam |quote=Priced at Rs.4.10 lakh...Street 750 will be by far its cheapest model in India since a Harley-Davidson motorcycle now costs at least Rs.9 lakh.|first=Shally Seth |last=Mohile|url=http://www.highbeam.com/doc/1P3-3204981971.html|archive-url=https://web.archive.org/web/20140611111327/http://www.highbeam.com/doc/1P3-3204981971.html|url-status=dead|archive-date=June 11, 2014}}{{dead link|date=January 2022}}
+*{{citation|title=Harley-Davidson Street 750 launched with a shocking price tag!|newspaper=[[Zee News]]|location=Noida, India|date=February 5, 2014|url=http://zeenews.india.com/business/automobiles/auto-expo-2014/harley-davidson-street-750-launched-with-a-shocking-price-tag_93919.html|ref={{harvid|''Zee News''|2014}}}}
+*{{citation|title=Harley-Davidson Street 750, first look, review|newspaper=[[Hindustan Times]]|date=March 4, 2014|url=http://www.hindustantimes.com/autos/htauto-bikereviews/harley-davidson-street-750-first-look-review/article1-1190933.aspx|quote=The Street 750 comes with a cruiser typical 1511mm long wheelbase, and seats riders in armchair comfort...|ref={{harvid|''Hindustan Times''|2014}}|url-status=dead|archive-url=https://web.archive.org/web/20140316013312/http://www.hindustantimes.com/autos/htauto-bikereviews/harley-davidson-street-750-first-look-review/article1-1190933.aspx|archive-date=March 16, 2014}}
+*{{citation|title=2015 HARLEY-DAVIDSON STREET 750, WITH DYNO RUN – FIRST RIDE|date=March 24, 2014 |first=Don |last=Canet|magazine=[[Cycle World]]|url=http://www.cycleworld.com/2014/03/24/2015-harley-davidson-street-750-first-ride-review-photos-dyno-run-specifications/?src=related&amp;con=outbrain&amp;obref=obinsite}}
+*{{citation|first=Jeff|last=Ware|title=Review: Harley-Davidson Street 500 (LAMS)|date=30 June 2018 |url=https://bikereview.com.au/review-harley-davidson-street-500-lams/ |website=Bike Review}}
+
+==External links==
+{{Commons category|Harley-Davidson Street}}
+*{{Official website}}
+
+{{Harley-Davidson model families}}
+
+[[Category:Cruiser motorcycles]]
+[[Category:Harley-Davidson motorcycles|Street]]
+[[Category:Motorcycles of India]]
+[[Category:Motorcycles introduced in 2014]]</text>
+      <sha1>paox4c4vpovunfaje4uz200bgxxw50l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Indian FTR</title>
+    <ns>0</ns>
+    <id>63908202</id>
+    <revision>
+      <id>1090087739</id>
+      <parentid>1089777507</parentid>
+      <timestamp>2022-05-27T08:48:45Z</timestamp>
+      <contributor>
+        <username>Mechanical Keyboarder</username>
+        <id>31604539</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4187" xml:space="preserve">{{short description|Standard motorcycle}}
+{{Infobox motorcycle
+| name             = Indian FTR
+| image            = File:Indian FTR 1200 - special.jpg
+| alt              = 
+| caption          = 
+| aka              = 
+| manufacturer     = [[Polaris Inc.]]
+| parent_company   = 
+| production       = 2019–present
+| assembly         = 
+| predecessor      = 
+| successor        = 
+| class            = [[Standard motorcycle|Standard]]
+| engine           = 1203&amp;nbsp;cc liquid-cooled, four-stroke 60-degree, 4-valve, [[v-twin]]
+| bore_stroke      = {{cvt|102|×|73.6|mm}}
+| compression      = 12.5:1
+| top_speed        = 
+| power            =  {{convert|111|hp}} 
+| torque           = {{convert|80|lbft}}
+| ignition         = 
+| transmission     = Slipper clutch, 6-speed [[Sequential manual transmission|sequential transmission]], chain-drive&lt;ref name=Hyatt/&gt;
+| frame            = Steel [[trellis frame]]
+| suspension       = Front: 43mm [[telescopic fork]]&lt;br&gt;Rear: Monoshock
+| brakes           =  Front: dual 320&amp;nbsp;mm [[Brembo]]
+| tires            = 19 inch front, 18 inch rear
+| rake_trail       = 26.3-degree rake, {{convert|5.1|inch}} trail
+| wheelbase        = {{convert|60|inch}}
+| length           = 
+| width            = 
+| height           = 
+| seat_height      = {{convert|33.6|inch}}
+| dry_weight       = 
+| wet_weight       = {{convert|495|lb}} (unfueled)
+| fuel_capacity    = {{convert|3.4|usgal}}
+| oil_capacity     = 
+| fuel_consumption = {{convert|32|mpgus}}
+| turning_radius   = 
+| range          = {{convert|100|miles}}
+| related          = 
+| sp               =  
+| footnotes        =  Data from ''Cycle World''&lt;ref name=Hoyer2019/&gt;
+}}
+The '''Indian FTR''' (formerly '''FTR 1200''') is a [[standard motorcycle]] manufactured by [[Polaris Inc.]] under the [[Indian Motorcycle Manufacturing Company|Indian Motorcycle marque]] since 2019.&lt;ref name=Hoyer2019/&gt;&lt;ref name=MCN/&gt;
+
+The FTR1200 and its derivative, the FTR1200S, have been noted as having design cues from the sport of flat track racing, including the airbox location, dual exhaust pipes, lightweight appearance, in contradistinction to the usual American [[cruiser motorcycle]], &lt;ref name=Elliott2019/&gt; and "directly target[s] enthusiast riders who currently have traditionally favored the [[Ducati Monster]], [[Triumph Speed Triple]] and [[BMW R nineT]]".&lt;ref name=Carney2019/&gt; The "sport" model FTR1200S has [[electronic stability control]] and [[wheelie]] control, with gyroscopic input to the ABS and other systems to make them lean sensitive.&lt;ref name=Hyatt/&gt;
+
+==FTR750==
+The [[Indian Scout FTR750]] [[Track racing#Flat track|flat track racing]] motorcycle is similar in appearance.
+
+==References==
+{{reflist|refs=
+
+&lt;ref name=Hoyer2019&gt;
+{{citation|title=2019 Indian FTR1200 First Ride Review|author=Mark Hoyer|date=May 6, 2019|work=[[Cycle World]]|url=https://www.cycleworld.com/2019-indian-ftr1200-first-ride-review/}}&lt;/ref&gt;
+
+&lt;ref name=MCN&gt;
+{{citation|title=INDIAN FTR1200 (2019-on) review|work=[[Motor Cycle News]]|date=May 6, 2019|url=https://www.motorcyclenews.com/bike-reviews/indian/ftr1200/2019/}}&lt;/ref&gt;
+
+&lt;ref name=Elliott2019&gt;
+{{citation|publisher=[[Bloomberg News]]|title="Everyone Loves That Bike!" The Allure of the Indian FTR 1200 S Motorcycle|author=Hannah Elliott|date=September 17, 2019|url=https://www.bloomberg.com/news/articles/2019-09-17/indian-ftr-1200-s-motorcycle-review-everyone-loves-that-bike}}&lt;/ref&gt;
+
+&lt;ref name=Carney2019&gt;
+{{citation|work=[[Popular Science]]|title=Indian's FTR 1200 S motorcycle is everything a modern sport bike should be|author=Dan Carney|date=September 26, 2019|url=https://www.popsci.com/indian-ftr-1200-motorcycle-sport-bike-review/}}&lt;/ref&gt;
+
+&lt;ref name=Hyatt&gt;
+{{citation|publisher=[[CNet]]|title=The 2019 Indian FTR1200 is here, it's a hooligan bike and I need it|author=Kyle Hyatt|url=https://www.cnet.com/roadshow/news/2019-indian-ftr1200-flat-track-production-debut/}}&lt;/ref&gt;
+
+}}
+
+==External links==
+*{{Official website|https://www.indianmotorcycle.com/en-us/ftr1200/}}
+
+{{Motorcycle-stub}}
+
+[[Category:Indian Motorcycles|FTR1200]]
+[[Category:Motorcycles introduced in 2019]]
+[[Category:Standard motorcycles]]
+[[Category:Motorcycles of the United States]]</text>
+      <sha1>o5rb3j4c7pwxx698moxhq9rpkjtt5iw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jawa 660</title>
+    <ns>0</ns>
+    <id>56475782</id>
+    <revision>
+      <id>1111456493</id>
+      <parentid>1026909774</parentid>
+      <timestamp>2022-09-21T02:23:09Z</timestamp>
+      <contributor>
+        <username>Floyd23</username>
+        <id>12959150</id>
+      </contributor>
+      <comment>#suggestededit-add 1.0</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2330" xml:space="preserve">{{Short description|Czech motorcycle}}
+[[File:Jawa Motopark2011.jpg|thumb|Jawa 660 Sportard (red on the right) in the model range of Jawa in 2011]]
+The '''Jawa 660''' was a [[motorcycle]], produced by [[Jawa Moto]] in the [[Czech Republic]] in 2011-2018. The predecessor was the [[Jawa 650]]. The motorcycle is made in three versions: the Jawa 660 Sportard, Adenium and Vintage. The Adenium is slightly altered Sportard, main changes include in: 19" front wheel, crash bar, higher front plexiglass, main stand, rear diode light and side trunk carriers. The Vintage is a retro version, produced since 2017 in the design of [[Jawa 350|Jawa 350/634]].&lt;ref&gt;{{cite news|title=Jawa představila dva nové modely pro rok 2017|url=https://silnicnimotorky.cz/motorky/novinky/jawa-predstavila-dva-nove-modely-pro-rok-2017/|work=Silničnímotorky.cz|date=21 February 2017|language=cs-CZ}}&lt;/ref&gt; Since 2014, it was imported through the ''F2 Motorcycles'' dealer also to the [[United Kingdom|UK]].&lt;ref&gt;{{cite news|title=JAWA 660 SPORTARD REVIEW|url=https://www.morebikes.co.uk/10619/jawa-660-sportard-review/|work=MoreBikes|date=19 September 2014}}&lt;/ref&gt;
+
+== Specifications ==
+* Motor: [[Minarelli]] SOHC, water-cooled four-stroke single-cylinder with EFI injection ( same as [[Yamaha XT660Z Ténéré|Yamaha XT660Z Teneré]] )
+* Displacement: 660 cm3
+* Power: 36&amp;nbsp;kW @ 6000 ot./min
+* Max. torque: 58 Nm @ 5500 ot./min
+* Emission standards: Euro 3
+* Frame: tubular steel
+* Wheelbase: 1497&amp;nbsp;mm
+* Transmission: five-speed
+* Wheels: front 17" 120(130)/70 or 19" 100/90, and rear 17" 150(180)/70(60)
+* Brakes: rear disc 220&amp;nbsp;mm, front 2x discs 305&amp;nbsp;mm
+* Dry weight: 189&amp;nbsp;kg
+* Tank capacity: 15 L
+* Max. speed: 170&amp;nbsp;km/h&lt;ref&gt;{{cite web|title=Jawa 660 Sportard/Adenium|url=http://www.motorkari.cz/motokatalog/jawa/jawa-660-sportard.html|website=Motorkari.cz|language=cs}}&lt;/ref&gt;
+* Fuel consumption: 4.5 L/100&amp;nbsp;km
+* Acceleration 0–100&amp;nbsp;km/h: 5 s&lt;ref&gt;{{cite news|title=Jawa 660 Sportard: česká novinka v testu|url=http://www.zavolantem.cz/jawa-660-sportard-ceska-novinka-v-testu|work=Zavolantem.cz|date=1 March 2012|language=cs}}&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://jawa.eu/jawa-660-sportard--2 Official website] www.jawa.eu
+
+[[Category:Jawa motorcycles|650]]
+[[Category:Sport bikes]]</text>
+      <sha1>mdk31hn7kzyv02mcz7kgv9fqnadwzo8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kawasaki Ninja H2</title>
+    <ns>0</ns>
+    <id>43793484</id>
+    <revision>
+      <id>1114410138</id>
+      <parentid>1114409776</parentid>
+      <timestamp>2022-10-06T10:39:06Z</timestamp>
+      <contributor>
+        <username>Zulfajri189</username>
+        <id>44394309</id>
+      </contributor>
+      <comment>/* Sources */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="41210" xml:space="preserve">{{Short description|Sports motorcycle}}
+{{About|the supercharged four-cylinder motorcycle announced in 2014|the 3-cylinder motorcycle of the 1970s|Kawasaki H2 Mach IV}}
+{{Cleanup bare URLs|date=August 2022}}
+{{More footnotes|date=August 2022}}{{Infobox motorcycle
+|name             = Kawasaki Ninja H2R
+|image            = [[File:Kawasaki Ninja H2.jpg|frameless|upright= 1.35]]
+|caption          =Street-legal Ninja H2
+|manufacturer     = [[Kawasaki Heavy Industries Motorcycle &amp; Engine|Kawasaki Motorcycle &amp; Engine Company]]
+|parent_company   = [[Kawasaki Heavy Industries]]
+|production       = 2015–present
+|class            = Street-legal [[sport bike]] (H2)&lt;br /&gt;Track-only [[sport bike]] (H2R)
+|engine           = [[Supercharger|Supercharged]] &lt;small&gt;(two-speed [[Centrifugal supercharger|centrifugal]])&lt;/small&gt; 998&amp;nbsp;cc [[DOHC]] 4-valve [[Inline-four engine|inline-4]]
+|bore_stroke      = {{Convert|76.0|×|55.0|mm|abbr=on}}
+|compression      = 8.5:1 (H2)&lt;br /&gt;8.3:1 (H2R)&lt;ref name=firstride/&gt;
+|top_speed        = {{convert|209.442|mph|2|abbr=on|order=flip}} (H2)&lt;ref&gt;https://otomania.gridoto.com/read/03266868/luar-biasa-ninja-h2-catatkan-rekor-top-speed-terbaru?page=all#!%2F&lt;/ref&gt;&lt;ref name=Clark2018&gt;{{citation|work=[[Motor Cycle News]]|author=Ben Clark|title=Kawasaki Ninja H2 hits 209mph at Bonneville Speed Week|date=23 August 2018|url=https://www.motorcyclenews.com/news/2018/august/kawasaki-ninja-h2-sets-speed-record/}}&lt;/ref&gt;&lt;br /&gt;{{convert|331-400|km/h|abbr=on}} (H2R)&lt;ref name=firstride/&gt;&lt;ref name=hillier&gt;{{cite web |url=http://www.cycleworld.com/2015/06/11/iomtt-hillier-ninja-h2r-set-roads-tt-record//|title=IOMTT: Hillier &amp; Ninja H2R Set Roads TT Record | publisher=[[Cycle World]]|access-date=February 14, 2016|date=June 11, 2015 }}&lt;/ref&gt;&lt;ref name=headtohead&gt;{{cite web |url=http://www.sportrider.com/videos-kawasaki-ninja-h2r-goes-head-to-head-against-three-supercars//|last=Kunitsugu |first=Kent |title=Videos: Kawasaki Ninja H2R goes head-to-head against three supercars |work=Sport Rider|access-date=February 14, 2016|date=May 18, 2015 }}{{dead link|date=August 2022}}&lt;/ref&gt;&lt;ref name=AaronFrank&gt;"motorcyclist" team green goes for gold. January 2015, page 32&lt;/ref&gt;&lt;ref name=video&gt;{{cite web |url=http://www.motorcyclistonline.com/video-insane-speed-kawasaki-h2r-isle-man-tt//|title=VIDEO: Insane Speed On the Kawasaki H2R at Isle Of Man TT | publisher=[[Motorcyclist (magazine)|Motorcyclist]]|access-date=February 14, 2016|date=June 15, 2015 }}&lt;/ref&gt;&lt;ref name=kenan400kmhin26seconds/&gt;&lt;ref name=cyleworld/&gt;
+|power            = '''''H2:'''''&lt;br /&gt;(2015-2018) {{Convert|189.8|hp|abbr=on|order=flip}} (rear wheel)&lt;ref name=roadtestreview/&gt;&lt;br /&gt;{{Convert|200|hp|abbr=on|order=flip}} (claimed) @ 11,000&amp;nbsp;rpm&lt;br /&gt;(2019-) {{Convert|228|hp|abbr=on|order=flip}} (claimed)&lt;ref&gt;{{Cite web|url=https://www.motorcyclenews.com/news/new-bikes/kawasaki-ninja-h2/|title = KAWASAKI NINJA H2 (2019 - on) Review}}&lt;/ref&gt;&lt;br /&gt;'''''H2R:'''''&lt;br /&gt;{{convert|310|HP|abbr=on}} @ 14,000 rpm&lt;ref name=firstride&gt;{{cite web |url=http://www.cycleworld.com/2015/03/17/2015-kawasaki-ninja-h2-and-h2r-superbike-motorcycle-review-first-ride-photos-specifications//|last=Canet |first=Don |title=2015 Kawasaki Ninja H2 and H2R – FIRST RIDE | publisher=[[Cycle World]]|access-date=February 14, 2016|date=May 17, 2015 }}&lt;/ref&gt;
+|torque           = '''''H2:'''''&lt;br /&gt;{{Convert|91.2|lbft|abbr=on|order=flip}} (rear wheel)&lt;ref name=roadtestreview&gt;{{cite web|url=http://www.cycleworld.com/2015/11/06/2015-kawasaki-ninja-h2-sportbike-motorcycle-road-test-review-photos-specifications |archive-url=https://web.archive.org/web/20161227205058/http://www.cycleworld.com/2015/11/06/2015-kawasaki-ninja-h2-sportbike-motorcycle-road-test-review-photos-specifications |archive-date=December 27, 2016 |last=Hoyer |first=Mark |title=2015 Kawasaki Ninja H2 – ROAD TEST REVIEW |publisher=[[Cycle World]] |access-date=February 14, 2016 |date=November 6, 2015 |url-status=dead }}&lt;/ref&gt;&lt;br /&gt;{{Convert|98.5|lbft|abbr=on|order=flip}} (claimed) @10,500 rpm&lt;br /&gt;'''''H2R:'''''&lt;br /&gt;{{convert|115|lb·ft|abbr=on|order=flip}} @12,500 rpm&lt;ref name=firstride/&gt;
+|transmission     =6-speed 
+|frame            = Steel [[trellis frame|trellis]]
+|suspension       = '''''H2:'''''&lt;br /&gt;Front: 43&amp;nbsp;mm telescopic fork, preload-adjustable&lt;br /&gt;Rear: Single shock, preload-adjustable&lt;br /&gt;'''''H2R:'''''&lt;br /&gt;Front: Fully adjustable KYB [[telescopic fork]] with [[steering damper]]&lt;br /&gt;Rear: [[single-sided swingarm]] with monoshock
+|brakes           = Front: 2 x 330&amp;nbsp;mm [[Brembo]] disc with radial-mount monoblock calipers&lt;br /&gt;Rear: 250&amp;nbsp;mm [[Brembo]] disc with radial-mount caliper&lt;ref name=brakes&gt;{{cite web|title=Kawasaki Ninja H2R |url=https://www.brembo.com/en/company/news/brembo-brakes-5-powerful-bikes-world-kawasaki-ninja-h2r |website=Brembo - Official Website|access-date=August 12, 2022|date=July 25, 2019}}&lt;/ref&gt;
+|tires            = '''''H2:'''''&lt;br /&gt;Front: 120/70ZR17&lt;br /&gt;Rear: 200/55ZR17&lt;br /&gt;'''''H2R:'''''&lt;br /&gt;Front: 120/60 R17 [[racing slick]]s&lt;br /&gt;Rear: 190/65 R17 racing slicks
+|rake_trail       =  24.5°, {{convert|4|in|abbr=on|order=flip}} (H2)&lt;br /&gt;25.1°, {{Convert|4.3|in|abbr=on|order=flip}} (H2R)
+|wheelbase        = {{Convert|57.1|in|abbr=on|order=flip}}
+|length           ={{convert|82.1|in|abbr=on|disp=flip}} (H2) 
+|width            = 
+|height           = 
+|seat_height      = {{convert|32.5|in|abbr=on}} (H2)&lt;br /&gt;{{convert|32.7|in|abbr=on|order=flip}} (H2R)
+|dry_weight       = 
+|wet_weight       = {{convert|529.0|lb|abbr=on|order=flip}} (H2)&lt;ref name=roadtestreview/&gt; (wet)&lt;br /&gt;{{convert|476.0|lb|abbr=on|order=flip}} (H2R)&lt;ref name=firstride/&gt;
+|fuel_capacity    = {{convert|17.03|l|abbr=on}}
+}}
+[[File:Kawasaki Ninja H2R Seattle motorcycle show.jpg|thumb|Track-only Ninja H2R]]
+[[File:Kawasaki Ninja H2 SX - Mondial de l'Automobile de Paris 2018 - 002.jpg|thumb|Ninja H2 SX]]
+The '''Kawasaki Ninja H2''' is a "[[Supercharger|supercharged]] [[Super sport (motorcycle)|supersport]]"-class{{sfn|Shields|2014}} [[motorcycle]] in the [[Kawasaki Ninja|Ninja]] [[Sport bike|sports bike]] series manufactured by [[Kawasaki Heavy Industries Motorcycle &amp; Engine|Kawasaki]], featuring a variable-speed [[centrifugal-type supercharger|centrifugal supercharger]].{{sfn|Newland|2014}}{{sfn|Bennetts|2014}}{{sfn|Olgiati|2014}}&lt;ref name="Sport Rider September 24, 2014"&gt;{{cite web|title=Video: Supercharged Kawasaki Ninja H2 on Engine Dyno|work=Sport Rider|date=September 24, 2014|url=http://www.sportrider.com/sportbike-news/video-supercharched-kawasaki-ninja-h2-engine-dyno|url-status=dead|archive-date=2014-09-27|archive-url=https://web.archive.org/web/20140927001504/http://www.sportrider.com/sportbike-news/video-supercharched-kawasaki-ninja-h2-engine-dyno}}&lt;/ref&gt;
+
+Its namesake is the 750&amp;nbsp;cc [[Kawasaki H2 Mach IV]],{{sfn|Motor Cycle News|2014}}&lt;ref&gt;{{youTube|bkXRk5JvnrA|Ninja H2: Vol.6 promotional video}} published by Kawasaki, September 16, 2014&lt;/ref&gt; an [[straight-three engine|inline triple]] that was introduced by Kawasaki in 1972 to "disrupt what it saw as a sleeping motorcycle market".{{sfn|Cameron|2014a}}
+
+Its '''Ninja H2R''' track-only variant is the fastest and most powerful production motorcycle on the market, producing a maximum of {{convert|310|hp}} and {{convert|326|hp}} with [[Ram-air intake|ram-air]].&lt;ref name="firstride" /&gt; The H2R has 50% more power than the fastest [[Street-legal vehicle|street-legal]] motorcycles,{{Which|date=August 2022}} while the street-legal Ninja H2 has a lower power output of {{convert|200|hp|abbr=on}}&lt;ref name="SR20141005"&gt;{{cite web |title=Is this the New 2015 Kawasaki H2 street version teaser video? |url=http://www.sportrider.com/sportbike-news/new-2015-kawasaki-h2-street-version-teaser-video |work=Sport Rider |date=October 5, 2014 |url-status=dead |archive-date=2014-10-07 |archive-url=https://web.archive.org/web/20141007231640/http://www.sportrider.com/sportbike-news/new-2015-kawasaki-h2-street-version-teaser-video}}&lt;/ref&gt;–{{convert|210|hp|abbr=on}} with ram-air.&lt;ref name="firstride"/&gt;
+
+== Design ==
+Kawasaki selected the [[literbike]] platform for its top-of-the-line Ninja H2 model, rather than continuing with the higher-displacement [[Kawasaki Ninja ZX-14|Ninja ZX-14]] [[hyperbike]]. ''[[Cycle World]]''&lt;nowiki/&gt;'s [[Kevin Cameron (journalist)|Kevin Cameron]] explained that the literbike class is "the center of the high-performance market", attracting the best development in racing, with the best chassis and suspension design, so it made sense for Kawasaki to create a machine that could leverage this.{{sfn|Cameron|2014a}}
+
+The H2 is the first production motorcycle with a supercharger,{{sfn|Kunitsugu|2014}} although [[turbocharger]]s were available on [[Turbocharger#Motorcycles|some models]] in the early 1980s.
+
+Specifications in the infobox are from Kawasaki unless noted.&lt;ref&gt;{{citation |title=2015 Ninja H2 specifications |url=http://kawasaki.com/Products/2015-Ninja-H2 |publisher=Kawasaki |access-date=2014-11-05}}&lt;/ref&gt;
+
+=== Production ===
+The [[street-legal vehicle|street-legal]] Ninja H2 has [[Side-view mirror|mirrors]] in place of the track-only H2R's winglets,&lt;ref name="SR20141005" /&gt; and plastic body panels in place of the H2R's [[Carbon-fiber-reinforced polymers|carbon-fiber]] panels. The street-legal H2 is said to make {{convert|200|hp}}, probably with reduced supercharger boost compared to the H2R.&lt;ref name="SR20141005" /&gt; The H2 and H2R share the supercharger (with a lower boost level on the H2) and many other components, with the exception of the [[head gasket]], cam profile and timing with ECU mapping, exhaust system, and clutch (the H2R's clutch has two additional plates).&lt;ref name="firstride" /&gt;
+
+For 2017, Kawasaki made a limited-edition model with 120 units produced globally: the individually-numbered '''Kawasaki Ninja H2 Carbon''' with special paint and carbon-fiber upper cowl. For 2017, the standard Ninja H2 was also updated.&lt;ref name="carbon"&gt;{{cite web |date=February 2, 2017 |title=Kawasaki Unveils Limited Edition 2017 Ninja H2 Carbon Superbike |url=http://www.motorcyclistonline.com/kawasaki-unveils-limited-edition-2017-ninja-h2-carbon-superbike#page-2// |access-date=February 6, 2017 |publisher=[[Motorcyclist (magazine)|Motorcyclist]]}}&lt;/ref&gt;
+
+For 2018, Kawasaki made a new [[sport touring]] version of the H2, the '''{{vanchor|Kawasaki H2 SX}}''', with a claimed wet weight of {{convert|564.5|lb|abbr=on|order=flip}}. Features that are options on the base model H2 SX come standard on the '''Kawasaki H2 SX SE''', which has a claimed wet weight of {{convert|573.3|lb|abbr=on|order=flip}}.&lt;ref name="touring2018"&gt;{{cite web |last=Kunitsugu |first=Kent |date=March 28, 2018 |title=Kawasaki's 2018 H2 SX SE Is The Most Powerful Sport-Tourer You Can Buy |url=https://www.cycleworld.com/kawasakis-2018-h2-sx-se-is-most-powerful-sport-tourer-you-can-buy// |access-date=April 17, 2016 |magazine=[[Cycle World]]}}&lt;/ref&gt; With revised throttle bodies, camshafts, crankshaft, pistons, cylinder and cylinder head as well as a new exhaust system aimed at increasing mid range torque. The intake system and supercharger impeller were also redesigned.  A new larger fuel tank, rear trellis subframe and panniers increase the bike's weight by {{convert|19|lbs}}.&lt;ref name="touring2017"&gt;{{cite web |last=Gustafson |first=Joseph |date=November 7, 2017 |title=2018 Kawasaki H2 SX Sport-Tourer Debuts—Get Ready To Wet Your Gore-Tex |url=https://www.cycleworld.com/2018-kawasaki-h2-sx-sport-tourer-debut// |access-date=November 14, 2016 |publisher=[[Cycle World]]}}&lt;/ref&gt;
+
+For 2019, the H2 received an update with 15% more power from updates to the intake, spark plugs, ECU, and air filter, among other components. Also added was a new LED lighting scheme and a special top coat of paint that is claimed to be self-healing and able to smooth over small scratches in warmer conditions. Also new were lighter and smaller Brembo Stylema calipers, a new TFT dash, and smartphone connectivity that provides information about the GPS route, speed, RPM, current gear, fuel mileage, fuel level, and odometer.&lt;ref name="new"&gt;{{cite web |date=August 10, 2018 |title=Kawasaki Gives H2 Lineup More Power For 2019 |url=http://www.roadracingworld.com/news/kawasaki-gives-h2-lineup-more-power-for-2019// |access-date=August 14, 2018 |website=Roadracing World}}&lt;/ref&gt;&lt;ref name="228HP"&gt;{{cite web |last=Chung |first=Dennis |date=August 10, 2018 |title=2019 Kawasaki Ninja H2 Updated, Now Claims 228HP |url=http://www.motorcycle.com/mini-features/2019-kawasaki-ninja-h2-updated-now-claims-228hp.html// |access-date=August 14, 2018 |website=Motorcycle.com}}&lt;/ref&gt; In addition, the 2019 '''Ninja H2 SX SE+''' features electronically controlled suspension.&lt;ref&gt;{{Cite web |date=6 November 2018 |title=Kawasaki Upgrades 2019 Ninja H2 SX SE+ With Electronic Suspension And More |url=https://www.roadracingworld.com/news/kawasaki-upgrades-2019-ninja-h2-sx-se-with-electronic-suspension-and-more/ |access-date=2019-05-09 |website=www.roadracingworld.com}}&lt;/ref&gt;
+
+=== Engine and supercharger ===
+The H2's engine is a {{Convert|998|cc|cuin|abbr=unit}} [[Multi-valve|4-valve]], [[DOHC|dual overhead cam]] [[Straight-four engine|inline-4]] with a two-speed [[Centrifugal-type supercharger|centrifugal]] [[supercharger]].{{sfn|Tibu|2014a}}{{sfn|Blain|2014}}{{sfn|Kiser|2014}}{{sfn|Cameron|2014b}}
+
+The supercharger is driven by a series of gears and shafts connecting the flywheel to a [[Epicyclic gearing|planetary drive]], finally spinning a [[Dog clutch|dog-shifted]] two-speed shaft attached to the [[impeller]].{{sfn|Cameron|2014b}} Throttle control is [[Electronic throttle control|electronic]].{{sfn|Cameron|2014c}} A centrifugal supercharger has the advantage of generating less heat than other designs, especially [[scroll-type supercharger|scroll-type]] or [[Screw type supercharger|screw-type]] superchargers.{{sfn|Cameron|2014b}}{{sfn|Kunitsugu|2014}} Without an [[intercooler]] (which the H2 lacks), excess heat in the intake charge can cause [[Engine knocking#Pre-ignition|pre-ignition]] that can damage or destroy the engine.
+
+=== Electronic aids ===
+Electronic rider aids include an [[anti-lock braking system]] (ABS), Kawasaki [[Traction control system|Traction Control]] (KTRC), Kawasaki [[Engine braking|Engine Brake]] Control (KEBC), a Kawasaki [[Quickshifter|Quick Shifter]] (KQS), an electronic [[steering damper]] (ESD), and Kawasaki [[Launch control (automotive)|Launch Control]] Mode (KLCM).{{sfn|Cameron|2014b}}{{sfn|Madson|2014}}&lt;ref&gt;{{Cite news|url=http://shifting-gears.com/kawasaki-ninja-h2-electronic-aids-revealed/|title=Kawasaki Ninja H2: Electronic aids revealed - Shifting-Gears|date=2014-10-20|work=Shifting-Gears|access-date=2017-09-27|language=en-US}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://speedsociety.com/kawasaki-ninja-h2-launch-control-and-quickshifter/|title=Kawasaki Ninja H2 Launch Control And Quickshifter|work=Speed Society|access-date=2017-09-27|language=en-US}}&lt;/ref&gt;
+
+=== Aerodynamics ===
+{{Update|part=section|date=August 2022|reason=The description of the H2R's aero is hypothetical}}
+The front fairing of the Ninja H2R incorporates winglets{{sfn|Stock|2014}} made of [[carbon fiber]], just like the rest of the H2R-exclusive bodywork. They may be [[Automotive aerodynamics|aerodynamic devices]] designed to create a low-pressure zone to help move [[air cooling|cooling air]] through the engine bay,{{sfn|Lavrinc|2014}} to produce [[downforce]] at high speed,{{sfn|Kiser|2014}}{{sfn|Blain|2014}} or to provide [[Bicycle and motorcycle dynamics#Stability|straight-line stability]] in a short-[[wheelbase]] sportsbike chassis.{{sfn|Kunitsugu|2014}}{{sfn|Beeler|2014}}
+
+=== Chassis ===
+The H2 and H2R have a tubular, thin-wall steel [[trellis frame]] and a [[single-sided swingarm]],{{sfn|Kunitsugu|2014}} with a traditional sportsbike wheelbase of {{Convert|1450|mm|in|abbr=unit}}.{{sfn|Abrahams|2014}}
+
+Explaining the advantages of Kawasaki's approach to exploiting aerodynamics instead of lengthening the wheelbase, a South African writer{{Who|date=August 2022}} said, "It's easy to build stability into a hard-accelerating drag machine with a long wheelbase... but Kawasaki wanted a track-day machine, one that would also go round corners."{{sfn|Abrahams|2014}} High speed motorcycles often have long wheelbases. Extra length is added by the extended swingarm on a typical [[Motorcycle drag racing|drag motorcycle]], and a typical [[motorcycle land-speed record|land speed record]] [[streamliner]] has a meters-long wheelbase (3.7 meters for the current record holder, [[Ack Attack]]).
+
+== Pre-Intermot engine announcements and analysis ==
+The H2 was announced by Kawasaki in a late-2014 [[teaser campaign]], and was widely expected to be fully revealed at the [[Intermot]] motorcycle trade show the same year. Before full details were released by Kawasaki, the supercharged inline-4 engine&lt;ref name="Sport Rider September 24, 2014"/&gt; was thought by several industry observers to be identical to, or closely related to, a nearly 1,000&amp;nbsp;cc inline-4 with a centrifugal supercharger displayed by Kawasaki at the 2013 [[Tokyo Motor Show]].{{sfn|Bennetts|2014}}{{efn|Cameron also recalled Kawasaki's supercharged piston engine experience with the WWII era [[Kawasaki Ha40]] aircraft engine.{{sfn|Cameron|2014a}}}}{{sfn|Visordown|2014}}
+
+Cameron published an analysis showing that an engine of that displacement, mildly boosted at {{convert|5|psi|abbr=on}}, would generate {{convert|203|hp}}—more than that of Kawasaki's current leader, the {{convert|191.7|hp|adj=on}}&lt;ref name="roadtest"&gt;{{cite web |last=Lenatsch |first=Nick |date=March 7, 2012 |url=http://www.cycleworld.com/2012/03/07/kawasaki-zx-14r-road-test// |title=Kawasaki ZX-14R – Road Test |work=[[Cycle World]] |access-date=July 4, 2016}}&lt;/ref&gt; [[Kawasaki Ninja ZX-14|ZX-14]] (horsepower figures are expressed at the rear wheel). The same engine would generate {{convert|257|hp}} with {{convert|10|psi|abbr=on}} of pressure. His analysis included a discussion of the benefits of a [[Supercharger#Two-speed and two-stage superchargers|two-speed supercharger]] for more linear power delivery (as opposed to the intractable [[Forced induction in motorcycles#Forced induction in production motorcycles|Japanese turbo bikes of the 1980s]] that suffered from [[turbo lag]]). Cameron also said Kawasaki patent documents suggested the engine would rely on [[Evaporative cooler|evaporative cooling]] using port fuel injection, instead of a bulky [[intercooler]].{{sfn|Cameron|2014a}}
+
+Kawasaki claimed the 2013 model had the first supercharger designed by a motorcycle manufacturer.{{sfn|Ets-Hokin|2013}} In 2013, journalists said that the engine could power the "next generation [Ninja] ZX-14R" sportbike.{{sfn|Siler|2013}} Journalists also noted that Kawasaki already has a production inline-4 supercharged (albeit intercooled&lt;ref&gt;{{citation|title=2012 Jet Ski Ultra 300X detail &amp; features |publisher=Kawasaki |date=c. 2014 |url=http://www.kawasaki.com/products/product-details-features.aspx?id=560&amp;scid=0 |archive-url=https://archive.today/20140915184613/http://www.kawasaki.com/products/product-details-features.aspx?id=560&amp;scid=0 |url-status=dead |archive-date=2014-09-15 }}&lt;/ref&gt;) engine powering the [[Jet Ski]] Ultra 300X [[personal watercraft]].&lt;ref&gt;{{cite web|title=Teaser video announces 2015 Kawasaki Ninja H2|date=September 1, 2014|work=Sport Rider |url=http://www.sportrider.com/sportbike-news/kawasaki-announces-2015-ninja-h2-teaser-video|url-status=dead|archive-url=https://web.archive.org/web/20140904192928/http://www.sportrider.com/sportbike-news/kawasaki-announces-2015-ninja-h2-teaser-video|archive-date=2014-09-04}}&lt;/ref&gt;{{clear}}
+
+== Production announcement ==
+[[File:Kawasaki motorcycle supercharged engine 2013 Tokyo Motor Show.jpg|thumb|left|Engine shown at 2013 [[Tokyo Motor Show]]; supercharger has cover embossed "Kawasaki" to right of cylinders]]
+[[File:Kawasaki Ninja H2R engine cutaway supercharger.JPG|thumb|Cutaway H2R engine and supercharger. Orange painted plenum surrounds impeller, behind which is visible part of planetary gear system.|left]]
+At the 2014 Intermot motorcycle trade show on September 30, 2014, Kawasaki announced that a race-only Ninja H2R model would be produced in addition to the detuned street-legal Ninja H2, which would be fully revealed at the [[EICMA]] trade show in November.{{sfn|Kiser|2014}}{{sfn|Motor Cycle News|2014}} The bike was shown for the first time in North America at the AIMExpo show at Orlando, Florida in October, 2014.{{sfn|Bornhop|2014}}
+
+According to details Kawasaki made public about the H2's engine at Intermot, it was confirmed to be a 998&amp;nbsp;cc [[inline-four engine]] with a supercharger, producing {{convert|300|hp}} in the track-only H2R variant, still by far the highest rated engine ever for any factory production motorcycle{{sfn|Kiser|2014}}{{sfn|Tibu|2014a}}{{sfn|Blain|2014}} (50% more than its nearest competitor, the [[BMW S1000RR]]).{{sfn|Motor Cycle News|2014}}
+
+=== Reception ===
+Global press coverage both before and after Intermot was extensive.
+
+Before the full reveal of the H2R, reactions tended to emphasize the reintroduction of [[Forced induction in motorcycles|forced induction to the motorcycle marketplace]], with headlines like "Hail the New Supercharged Era" ([[Autoevolution]]),{{sfn|Tibu|2014a}} "Supercharged Ninja imminent" (''[[Motor Cycle News]]''),{{sfn|Newland|2014}} "New Kawasaki sports bike will use a 1000cc supercharged engine" (Visordown (UK)),{{ref|Visordown|2014}} "Kawasaki officially uncovers Ninja H2 supercharger" (''Cycle Online'' (Australia)),{{sfn|Shields|2014}} "Kawasaki Ninja H2: How the supercharger works" (''[[:it:Motociclismo (rivista)|Motociclismo]]''),{{sfn|Olgiati|2014}} and "Kawasaki's H2 superbike: A technical look at Kawasaki’s upcoming supercharged superbike" (''Cycle World'').{{sfn|Cameron|2014a}}
+
+After the introduction, before any test rides had even been permitted, coverage turned to both the bike's unusual styling and its precedent setting power. Both industry and general-readership press said the machine "will beat up the supersport scene with a [[steam hammer]]" (''[[Der Tagesspiegel]]''),{{sfn|Walter|2014}} "smashes the superbike class" (Gizmag),{{sfn|Blain|2014}} is "a game changer" (Autoevolution),{{sfn|Tibu|2014b}} "a quantum leap into the future that redefines the way we see motorcycles" (Independent Newspapers),{{sfn|Abrahams|2014}} and "the poster child of 2-wheeled insanity&amp;nbsp;... so extreme it's hard to comprehend" (''[[Road &amp; Track]]''),{{sfn|Kierstein|2014}} or was simply "radical" (''Motor Cycle News''){{sfn|Motor Cycle News|2014}} and even "ludicrous" (''[[Bloomberg Businessweek]]'').{{sfn|Stock|2014}}
+
+''Cycle World'' and ''Motor Cycle News'' both commented on how Kawasaki had claimed the high end of the market with the H2, moving past a stagnant market (at least from the [[Japanese Big Four]] manufacturers) full of cookie-cutter sportsbikes and low-priced entry-level bikes, and had set up the H2 as a [[halo model]] for the entire brand. Cameron said, "When we look at the current crop of 1000s, all date from before our present "recession," and what little has come by way of new product has sought to please the mostly imaginary "new buyer" with low-tech delights."{{sfn|Cameron|2014b}} Highlighting Kawasaki's ability to create a product leveraging aerodynamic, turbine and engine technology design expertise from across the large [[Kawasaki Heavy Industries]] conglomerate (called a "vast industrial complex" by ''Sport Rider''{{sfn|Kunitsugu|2014}}), an unsigned ''Motor Cycle News'' piece said "The H2R you see here is the very pinnacle of what Kawasaki can do&amp;nbsp;... This is the firm's halo product, and every element is Kawasaki at its very best, from the engine and aerodynamic development, through to the mirror-finish black chrome paint specially developed for this model."{{sfn|Motor Cycle News|2014}}
+
+Some analysts noted odd features of the supposedly track-only H2R model. Although it is outfitted with [[racing slicks]] and lacks many features required on a [[street-legal vehicle]] in most jurisdictions, such as headlights, rear view mirrors, and turn signals visible from the front or sides, it also has features that are unusual or absent on pure track bikes, such as an ignition lock and LED tail light.{{sfn|Motor Cycle News|2014}}{{sfn|Beeler|2014}}{{clear}}
+
+== Speed record attempts ==
+
+=== H2 ===
+''[[Cycle World]]'' recorded a {{sfrac|1|4}}-mile time of 9.62 sec. @ {{Convert|152.01|mph|abbr=on}} with a 0 to 60&amp;nbsp;mph acceleration at 2.6 seconds and a top speed of {{Convert|183|mph|abbr=on}}.&lt;ref name="roadtestreview" /&gt; Kent Kunitsugu, editor for Sport Rider magazine, competing in a land-speed racing event in Mojave, California at the Mojave Air and Space Port airfield in the Mojave Magnum land-speed racing, took a Ninja H2 with just a few bolt-on performance parts adding over 70 horsepower and achieved a top speed of {{Convert|226.9|mph|abbr=on}}.&lt;ref name="speed"&gt;{{cite web |last=Kunitsugu |first=Kent |date=July 7, 2016 |title=Video: High Speed – Running Kawasaki's Ninja H2 to 226.9 mph |url=http://www.sportrider.com/video-high-speed-running-kawasakis-ninja-h2-to-2269-mph// |access-date=July 21, 2016 |publisher=Sport Rider}}&lt;/ref&gt;&lt;ref name="firstlooks"&gt;{{cite web |date=April 28, 2016 |title=Rotobox Carbon-Fiber Motorcycle Wheels Proven at 226.9 mph |url=http://www.sportrider.com/rotobox-carbon-fiber-motorcycle-wheels-proven-at-2269-mph// |access-date=July 21, 2016 |publisher=Sport Rider}}{{dead link|date=August 2022}}&lt;/ref&gt;
+
+On August 12, 2018, rider Shigeru Yamashita, with an unofficial team of Kawasaki employees (known as Team 38),&lt;ref&gt;{{citation |title=Team 38 head to the Mojave Mile with the H2R |date=August 10, 2015 |url=https://www.kawasaki.co.uk/en/news/Team_38_head_to_the_Mojave_Mile_with_the_H2R_?Uid=0898DlgOC1FQCV8LWg1ZXAlRWwlQWA0LWVlcX1xQUV1fDFk |website=kawasaki.co.uk |access-date=January 1, 2019}}&lt;/ref&gt; set a {{convert|202.743|mph|2|abbr=on}} speed record in the [[Southern California Timing Association]] (SCTA) P-PB 1000 class for under-1,000&amp;nbsp;cc displacement production supercharged motorcycles with limited modifications&lt;!--Footer disclaimer: "Unit has been modified for the event and is not available for sale as shown" - see the Kawasaki video in the MCN citation  --&gt; at the [[Bonneville Speedway]]. On August 15, Yamashita broke his own record with a new speed of {{convert|209.442|mph|2|abbr=on}}.&lt;ref name="Clark2018" /&gt;&lt;ref&gt;{{citation |author=Abhilasha Singh |title=Kawasaki Ninja H2 to attempt land speed record at Bonneville Speed Week |date=August 12, 2018 |work=[[The Financial Express (India)|The Financial Express]]}}&lt;/ref&gt;&lt;ref&gt;{{citation |title=Speed Week 2018 certified records |date=August 18, 2018 |url=http://nebula.wsimg.com/d2692d88c68116e5c45fd97f205b230a?AccessKeyId=1B489604A3781742F233&amp;disposition=0&amp;alloworigin=1 |page=8 |publisher=[[Southern California Timing Association]]}}&lt;/ref&gt;
+
+=== H2R ===
+
+==== 2015 ====
+[[File:Kawasaki H2R in Isle of Man cropped.jpg|thumb|James Hillier's H2R (by Quattro Plant/Bournemouth Kawasaki).&lt;ref name="Kawasaki UK video"&gt;{{cite AV media |url=https://www.kawasaki.co.uk/en/news/A_lap_of_the_Isle_of_Man_TT_with_James_Hillier_-_aboard_the_H2R?Uid=08B7ClkOWlxQX1ELWF1YXAkLDFAJWAxeWloMXAxdUQ5YDFk |title=A lap of the Isle of Man TT with James Hillier - aboard the H2R |date=21 August 2015 |publisher=Kawasaki UK |access-date=12 January 2019}} at [[TT Grandstand|race paddock]] during TT week in 2015&lt;/ref&gt; [[Motorcycle tyre#Types|Tyre warmers]] were electrically heated before the demonstration run.&lt;ref name="IoM TT"&gt;[https://www.iomtt.com/news/2015/06/11/hillier-hits-highest-speed-on-h2r Hiilier hits highest speed on H2R - video] iomtt.com, 11 June 2015. Retrieved 12 January 2019&lt;/ref&gt;]]In June 2015, [[Isle of Man TT|TT race]] competitor James Hillier rode a Kawasaki H2R around the 37{{frac|3|4}}-mile [[Isle of Man TT Mountain Course|TT road course]] as an inter-race demonstration lap at near-race speeds,&lt;ref name="Kawasaki UK video" /&gt; using normal Superbike [[Racing slick|slick race tires]],&lt;ref name="IoM TT" /&gt; leading to a TT record of the highest top speed attained in the [[Isle of Man]] by a motorcycle.&lt;ref name="Record"&gt;{{cite web |date=June 11, 2015 |title=IOMTT: Hillier &amp; Ninja H2R Set Roads TT Record (Video) |url=http://www.cycleworld.com/2015/06/11/iomtt-hillier-ninja-h2r-set-roads-tt-record// |access-date=November 21, 2016 |publisher=[[Cycle World]]}}&lt;/ref&gt; The top speed of "over 206 mph" (332&amp;nbsp;km/h) on the [[Sulby, Isle of Man|Sulby Straight]] was recorded on Hillier's personal [[Strava]] [[Global Positioning System|GPS]] smartphone [[mobile app|app]] for cyclists.&lt;ref&gt;[http://www.iomtt.com/News/2015/June/11/Hillier-hits-highest-speed-on-H2R.aspx Hillier hits highest speed on H2R] IoM TT.com Official site Retrieved July 20, 2016&lt;/ref&gt;
+
+==== 2016 ====
+On June 30, 2016, [[Kenan Sofuoğlu|Kenan Sofuoglu]], a five-time world champion [[Supersport World Championship|Supersport]] circuit-racer, made a top speed attempt.&lt;ref name="third"&gt;{{cite web |last=Contractor |first=Sameer |date=July 1, 2016 |title=Kenan Sofuoglu Hits Top Speed of 400 Kmph on the Kawasaki Ninja H2R |url=http://auto.ndtv.com/news/kenan-sofuoglu-hits-top-speed-of-400-kmph-on-the-kawasaki-ninja-h2r-1426766// |access-date=July 1, 2016 |publisher=Car and Bike}}&lt;/ref&gt;&lt;ref&gt;[http://www.worldsbk.com/en/champion/SSP WSBK official website.] Retrieved November 21, 2016&lt;/ref&gt; Kawasaki supplied a stock H2R augmented only with special tires developed by [[Pirelli]] for the top speed attempt to withstand extreme high speeds, and the bike was supplied with race-grade fuel.&lt;ref name="fifth"&gt;{{cite web |last=Tibu |first=Florin |date=July 1, 2016 |title=400 KM/H in 26 Seconds Aboard a Kawasaki Ninja H2R |url=http://www.autoevolution.com/news/400-km-h-in-26-seconds-aboard-a-kawasaki-ninja-h2r-109019.html |access-date=July 1, 2016 |publisher=Autoevolution}}&lt;/ref&gt; Sofuoglu was also supplied with a special one-piece leather suit to enhance aerodynamics for his record attempt.&lt;ref name="fifth" /&gt;
+
+This attempt, with the Turkish president in attendance, was made across the then-newly completed [[Osman Gazi Bridge]], the fourth longest in the world at just over a mile and a half.&lt;ref name="sixth"&gt;{{cite web |date=July 1, 2016 |title=Kenan Sofuoglu hits a bonkers top speed of 400 kmph on the Kawasaki Ninja H2R |url=https://www.wheelstreet.in/blog/kenan-sofuoglu-land-speed-record-of-400-kmph-kawsaki-ninja-h2r/// |access-date=July 1, 2016 |publisher=WheelStreet}}&lt;/ref&gt; Kawasaki quoted the H2R's maximum speed to be {{convert|380|km/h}}.&lt;ref name="fourth"&gt;{{cite web |last=Zoltan |first=Bogdan |date=July 1, 2016 |title=Kawasaki Ninja H2R Goes From 0 To 400KM/H Or 249MPH In 26 Seconds |url=http://www.carscoops.com/2016/07/kawasaki-ninja-h2r-goes-from-0-to.html |access-date=July 1, 2016 |publisher=Carscoops}}&lt;/ref&gt; After training and preparing for four months, a speed of {{convert|400|km/h}} in just 26 seconds was claimed by a video-recording of the bike's dashboard display.&lt;ref name="cyleworld"&gt;{{cite web |last=MacDonald |first=Sean |date=July 7, 2016 |title=400 KPH On A Production Motorcycle |url=http://www.cycleworld.com/400-kph-on-production-motorcycle// |access-date=July 21, 2016 |publisher=[[Cycle World]]}}&lt;/ref&gt;&lt;ref name="kenanworldrecord"&gt;{{cite web |last=Sofuoglu |first=Kenan |date=June 30, 2016 |title=Kenan Sofuoglu break World record by reaching 400 kmh with Kawasaki Ninja H2R. HD |url=https://www.youtube.com/watch?v=cKBLkUIoauo// |access-date=June 30, 2016 |website=[[YouTube]]}}&lt;/ref&gt;&lt;ref name="first"&gt;{{cite web |last=Azmi |first=Thoriq |date=July 1, 2016 |title=Kawasaki Ninja H2R hits 400km/h |url=http://www.bikesrepublic.com/bulletin/kawasaki-ninja-h2r-hits-400kmh// |access-date=July 1, 2016 |publisher=bikesRepublic.com}}&lt;/ref&gt;&lt;ref name="NEWS"&gt;{{cite web |last=Marsden |first=Liam |date=July 1, 2016 |title=Kenan Sofuoglu reaches 249mph on Kawasaki H2R |url=http://www.motorcyclenews.com/news/2016/july/kenan-sofuoglu-reaches-249mph-on-kawasaki-h2r/// |access-date=November 24, 2016 |publisher=[[Motor Cycle News]]}}&lt;/ref&gt;
+
+The speed was not officially confirmed or independently verified. No fixed point optical sensors for distance/speed calculations, chronometers or hand-held devices were used,&lt;ref name="kenan400kmhin26seconds"&gt;{{cite web |date=June 30, 2016 |title=Production Bike World Record 0-400 kmh in 26 sec. HD |url=https://www.youtube.com/watch?v=6_n7ru1e-rg// |access-date=June 30, 2016 |website=[[YouTube]]}}&lt;/ref&gt; and later with a theoretical calculation,&lt;ref name="second"&gt;{{cite web |last=Collins |first=Andrew |date=June 30, 2016 |title=Kawasaki H2R Proves It Really Can Go 249 MPH On A (Closed) Public Road |url=http://lanesplitter.jalopnik.com/kawasaki-h2r-proves-it-really-can-go-250-mph-on-a-clos-1782923821// |access-date=July 1, 2016 |publisher=[[Jalopnik]]}}&lt;/ref&gt; of the distance he traveled in 26 seconds on the {{convert|8,799|ft|m|adj=mid|-long}} bridge. Cameron had calculated two years earlier that with the right gearing, the H2R's engine power could theoretically overcome [[aerodynamic drag]] up to {{convert|250|-|260|mph}}.{{sfn|Cameron|2014b}}{{clear}}
+
+== See also ==
+*[[Kawasaki Ninja]] series
+*[[List of fastest production motorcycles by acceleration]]
+
+== Footnotes ==
+{{notelist}}
+
+=== Notes ===
+{{reflist|30em}}
+
+=== Sources ===
+*{{citation|title=Supercharged Kawasaki!|first=Wes|last=Siler|date=November 20, 2013|publisher=[[RideApart]]|url=https://rideapart.com/articles/kawasaki-supercharged-motorcycle-engine}}
+*{{citation|title=Tokyo Motor Show 2013: Kawasaki|date=November 21, 2013|first=Gabe|last=Ets-Hokin |publisher=Motorcycle Daily|url=http://www.motorcycledaily.com/2013/11/tokyo-motor-show-2013-kawasaki/}}
+*{{citation|title=Hail the New Supercharged Era|first=Florin|last=Tibu|date=September 4, 2014|publisher=[[Autoevolution]]|url=http://www.autoevolution.com/news/hail-the-new-supercharged-era-86135.html|ref={{harvid|Tibu|2014a}}}}
+*{{citation|title=Supercharged Ninja imminent|first=Richard|last=Newland|date=September 1, 2014|journal=[[Motorcycle News]]|url=http://www.motorcyclenews.com/mcn/news/newsresults/new-bikes/2014/august/supercharged-ninja-imminent/}}
+*{{citation|title=Hear Kawasaki's supercharged Ninja H2|publisher=[[Bennetts]]|work=Bike Social (blog)|date=September 3, 2014|url=http://www.bennetts.co.uk/bikesocial/news-and-views/news/2012/2014/september/hear-kawasakis-supercharged-ninja-h2/|ref={{harvid|Bennetts|2014}}}}
+*{{citation|title=Preview: Kawasaki's H2 superbike: A technical look at Kawasaki’s upcoming supercharged superbike (based on what we know so far)&lt;!-- title from URL is Kawasaki Ninja H2 supercharged superbike technical analysis and insights --&gt;|first=Kevin|last=Cameron|author-link=Kevin Cameron (journalist)|date=September 9, 2014|journal=[[Cycle World]]|url=http://www.cycleworld.com/2014/09/09/kawasaki-ninja-h2-supercharged-superbike-technical-analysis-and-insights-by-kevin-cameron/|ref={{harvid|Cameron|2014a}}}}
+*{{citation|publisher=Visordown|date=September 11, 2014|title=Is this what the Ninja H2 will look like? New Kawasaki sports bike will use a 1000cc supercharged engine, says French bike mag|url=http://www.visordown.com/motorcycle-news-new-bikes/is-this-what-the-ninja-h2-will-look-like/25524.html|ref={{Harvid|Visordown|2014}}}}
+*{{citation|date=September 19, 2014|first=Matthew|last=Shields|title=Kawasaki officially uncovers Ninja H2 supercharger|publisher=Cycle Online|location=Australia |url=http://www.cycleonline.com.au/2014/09/19/kawasaki-officially-uncovers-ninja-h2-supercharger/}}
+*{{citation|title=Kawasaki Ninja H2: come funziona la sovralimentazione|trans-title=Kawasaki Ninja H2: How the supercharger works|first=Tarcisio|last=Olgiati|journal=Motociclismo|date=September 19, 2014|language=it |url=http://www.motociclismo.it/kawasaki-ninja-h2-come-funziona-la-sovralimentazione-moto-59712}}
+*{{citation|last=Lavrinc|first=Damon|title=Here's The First Shot Of Kawasaki's Supercharged Ninja H2, With Wings|date=September 29, 2014|publisher=[[Jalopnik]]|url=http://lanesplitter.jalopnik.com/heres-the-first-shot-of-kawasakis-supercharged-ninja-h-1640399066}}
+*{{citation|title=300HP Kawasaki Ninja H2 and H2R Specs &amp; Details Revealed|first=Jesse|last=Kiser|publisher=[[RideApart]]|date=September 30, 2014|url=https://rideapart.com/articles/300hp-kawasaki-ninja-h2-h2r-specs}}
+*{{citation|url=http://www.autoevolution.com/news/kawasaki-ninja-h2-pics-and-video-show-a-game-changer-photo-galleryvideo-87192.html|title=Kawasaki Ninja H2R Pics and Video Show a Game Changer|first=Florin|last=Tibu|publisher=[[Autoevolution]]|date=September 30, 2014|ref={{harvid|Tibu|2014b}}}}
+*{{citation|url=http://www.gizmag.com/kawasaki-h2r-supercharged-300-horsepower-h2/34039/|title=Kawasaki smashes the superbike class with 300-horsepower, supercharged Ninja H2R|first=Liz|last=Blain|publisher=Gizmag|date=September 30, 2014}}
+*{{citation|title=2015 Kawasaki Ninja H2R Unveiled at INTERMOT: Supercharged track-only machine with 300 horsepower! Yes, 300 horsepower.|date=September 30, 2014|first=Kevin|last=Cameron|author-link=Kevin Cameron (journalist)|work=[[Cycle World]]|url=http://www.cycleworld.com/2014/09/30/2015-kawasaki-ninja-h2r-supercharged-sportbike-unveiled-at-intermot-2014-motorcycle-show/|ref={{harvid|Cameron|2014b}}}}
+*{{citation|title=Cologne Show: Radical Kawasaki Ninja H2|date=September 29, 2014|journal=[[Motor Cycle News]]|url=http://www.motorcyclenews.com/MCN/News/newsresults/New-bikes/2014/September/Cologne-Show-Radical-Kawasaki-Ninja-H2/|ref={{harvid|Motor Cycle News|2014}}}}
+*{{citation|first=Jensen|last=Beeler|title=Kawasaki Ninja H2R – Officially 300hp of Hyperbike|work=Asphalt &amp; Rubber|date=September 30, 2014|url=http://www.asphaltandrubber.com/bikes/kawasaki-ninja-h2r/}}
+*{{citation|first= Kent|last=Kunitsugu|title=Kawasaki official debuts 2015 Ninja H2R|journal=Sport Rider|publisher=[[Bonnier Corporation]]|date=September 30, 2014|url=http://www.sportrider.com/sportbike-news/kawasaki-officially-debuts-2015-ninja-h2r|archive-url=https://web.archive.org/web/20141003142523/http://www.sportrider.com/sportbike-news/kawasaki-officially-debuts-2015-ninja-h2r|archive-date=October 3, 2014}}
+*{{citation|title=2015 Kawasaki Ninja H2R First Look|first=Bart|last=Madson|publisher=Motorcycle USA|date=September 30, 2014|url=http://www.motorcycle-usa.com/630/19264/Motorcycle-Article/2015-Kawasaki-Ninja-H2R-First-Look.aspx}}
+*{{citation|title=Premieren auf der Motorradmesse Intermot: Dampfhammer bei Kawasaki, Tradition bei BMW|trans-title=Premiering at the Intermot motorcycle show: steam hammer by Kawasaki, tradition by BMW|date=October 1, 2014|first=Christoph|last=Walter|newspaper=[[Der Tagesspiegel]]|location=Berlin|language=de|url=http://www.tagesspiegel.de/mobil/motorrad/premieren-auf-der-motorradmesse-intermot-dampfhammer-bei-kawasaki-tradition-bei-bmw/10778930.html}}
+*{{citation|title=Check out Kawasaki's totally illegal sportbike|first=Kyle|last=Stock|journal=[[Bloomberg Businessweek]]|date=October 1, 2014|url=http://www.businessweek.com/articles/2014-10-01/kawasaki-ninja-h2r-a-motorcycle-so-powerful-that-its-illegal}}
+*{{citation|first=Dave|last=Abrahams|title=Kawasaki's 220kW track-day special|date=October 1, 2014|work=Independent Online|publisher=Independent Newspapers ([[Independent News &amp; Media]])|location=South Africa|url=http://www.iol.co.za/motoring/bikes/kawasaki/kawasaki-s-220kw-track-day-special-1.1758438}}
+*{{citation|first=Alex|last=Kierstein|title=The Kawasaki Ninja H2R is the poster child of 2-wheeled insanity|date=September 30, 2014|journal=[[Road &amp; Track]]|url=http://www.roadandtrack.com/go/first-looks/the-kawasaki-ninja-h2r-is-the-poster-child-of-2-wheeled-insanity}}
+*{{citation|title=Video:Kawasaki H2R Presentation: Kawasaki reveals the track-only H2R "hyperbike" to the press at AIMExpo 2014 | publisher=Cycle World| work=First Looks website | date=October 15, 2014 |first=Andrew  | last=Bornhop | url=http://www.cycleworld.com/2014/10/15/kawasaki-ninja-h2r-track-only-superbike-presentation-video-from-aimexpo-2014/}}
+*{{citation|title=Kawasaki Ninja H2 Streetbike|first=Kevin|last=Cameron|author-link=Kevin Cameron (journalist)|date=November 4, 2014|journal=[[Cycle World]]|url=http://www.cycleworld.com/2014/11/04/kawasaki-ninja-h2-streetbike-and-h2r-track-bike-motorcycle-review-first-look-photos/|ref={{harvid|Cameron|2014c}}}}.
+*Reviews of all [https://kawasakih2r.com/ kawasaki] motorcycles.
+
+== External links ==
+{{Commons category}}
+
+*{{Official website|http://kawasaki.com/Products/2015-Ninja-H2R}}
+
+{{s-start}}
+{{s-ach|rec}}
+{{s-bef|before=[[Ducati]] [[Ducati 1199#Panigale R|Panigale R]]}}
+{{s-ttl|title=[[List of fastest production motorcycles|Fastest production motorcycle]]|years=2016-}}
+{{s-aft|after=}}
+{{s-end}}
+
+{{Modern Kawasaki motorcycles}}
+{{Forced induction motorcycles}}
+
+[[Category:Kawasaki motorcycles|Ninja H2]]
+[[Category:Motorcycles introduced in 2014]]
+[[Category:Sport bikes]]</text>
+      <sha1>rmazosjuj7yiufw87uf54vx65mywz1z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MZ 1000S</title>
+    <ns>0</ns>
+    <id>10813773</id>
+    <revision>
+      <id>1016255755</id>
+      <parentid>961135329</parentid>
+      <timestamp>2021-04-06T06:15:10Z</timestamp>
+      <contributor>
+        <username>Nagarjunsuresh</username>
+        <id>39295964</id>
+      </contributor>
+      <comment>Adding [[Wikipedia:Short description|short description]]: "Parallel twin motorcycle" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9167" xml:space="preserve">{{Short description|Parallel twin motorcycle}}
+
+{{Infobox Motorcycle
+|name             = MZ 1000S
+|image            = [[File:MZ1000S-6.JPG|frameless|upright=1.35]]
+|caption= 
+|aka              = 
+|manufacturer     = [[MZ Motorrad- und Zweiradwerk|MZ Motorrad]]
+|parent_company   = 
+|production       = 2004–2007
+|predecessor      = 
+|successor        = 
+|class            = [[Sport bike]]&lt;br/&gt;[[Sport touring motorcycle|Sport-touring]]
+|engine           = {{convert|998|cc|cid|abbr=on}} [[straight-twin engine|parallel twin]]&lt;ref name=motorcyclist&gt;{{cite web |url=http://www.motorcyclistonline.com/2005-mz-1000-review//|title=2005 MZ 1000 Review| publisher=[[Motorcyclist (magazine)|Motorcyclist]]|accessdate=January 27, 2017|date=March 19, 2013 }}&lt;/ref&gt;
+|bore_stroke      = {{Convert|96|×|69|mm|abbr=on}}
+|compression      = 12.5:1
+|top_speed        = {{Convert|140|mph|abbr=on}}&lt;ref name=MCN/&gt;
+|power            = {{convert|87|kW|hp|abbr=on}} at 9000&amp;nbsp;RPM&lt;ref name=topspeed&gt;{{cite web |url=http://www.topspeed.com/motorcycles/motorcycle-reviews/mz/2006-mz-1000s-ar14696.html//|last=Kodack |first=Anthony |title=2006 MZ 1000S| publisher=Top Speed|accessdate=January 27, 2017|date=October 19, 2006 }}&lt;/ref&gt;
+|torque           = {{Convert|72|lbft|abbr=on}}&lt;ref name=MCN/&gt;
+|ignition         = 
+|transmission     =wet multi-plate hydraulic clutch &lt;br&gt;6-speed cassette gearbox&lt;br&gt;chain final drive R/H side
+|frame            = Chrome-moly tubular steel&lt;br&gt;Twin-beam
+|suspension       = Front: 43&amp;nbsp;mm Marzocchi inverted telescopic forks, fully adjustable&lt;br&gt;Rear: Alloy cantilever swingarm, Sachs shock, fully adjustable
+|brakes           = Front: 2 x 320&amp;nbsp;mm disc, 4-piston caliper&lt;br&gt;Rear: 240&amp;nbsp;mm disc, 2-piston caliper
+|tires            = Front: 120/70-17&lt;br&gt; Rear: 180/55-17
+|rake_trail       = 24.5°, {{Convert|98|mm|abbr=on}}
+|wheelbase        = {{convert|56.1|in|abbr=on}}
+|length           = 
+|width            = 
+|height           = 
+|seat_height      = {{convert|32.3|in|abbr=on|order=flip}}
+|dry_weight       = 
+|wet_weight       = {{convert|513|lb|abbr=on}}&lt;ref name=motorcyclist/&gt;
+|fuel_capacity    = {{convert|5.2|gal|abbr=on|order=flip}}
+|oil_capacity     = 
+|fuel_consumption = {{convert|40|mpgus|abbr=on|order=flip}}&lt;ref name=MCN/&gt;
+|turning_radius   = 
+|related          = 
+}}
+'''MZ 1000S''' is a 998&amp;nbsp;cc 180-degree [[straight-twin engine|parallel twin]] [[motorcycle]] produced between 2004 and 2007 released in the USA in 2005&lt;ref name=MCN/&gt; by the now defunct German company [[MZ Motorrad- und Zweiradwerk|MZ Motorrad]]. Once the flagship of the range, the 1000S was MZ's largest-ever displacement motorcycle, and their first multi-cylinder bike since 1959. The MZ 1000S was the most powerful production inline twin cylinder engine worldwide.&lt;ref name=topspeed/&gt;
+
+== Company history ==
+In the Communist era, the East German firm MZ Motorrad produced only single-cylinder, small-displacement motorcycles. These were mostly rugged 2-stroke commuters, from which MZ developed successful 250&amp;nbsp;cc [[ISDT]] machines. MZ were then world leaders in 2-stroke design, but chief engineer and rider [[Ernst Degner]] defected to the West, selling MZ technical know-how to [[Suzuki]].&lt;ref&gt; Degner's defection [http://www.motorcycleclassics.com/classic-japanese-motorcycles/suzuki-ernst-degner-ze0z1202zsch]&lt;/ref&gt; After the fall of the Berlin Wall in 1989, MZ had access to Western designers and  resources, and they hoped to move into a more sophisticated market. In 1994 the factory produced the [[MZ Skorpion|Skorpion]] range. Conceived by British design firm Seymour Powell, it used a 660&amp;nbsp;cc Yamaha single-cylinder engine. The Skorpion was followed in 2001 by the Baghira [[motard]], which also used the Yamaha engine.&lt;ref name=MCN/&gt; Later, after being taken over by [[Hong Leong Group]] of Malaysia, MZ began a project to produce its own 1000cc superbike, but MZ stopped all production in 2013.
+
+== Development history ==
+The 1000S "New Edge" design was drawn by Peter Naumann who designed the [[F-117 Stealth Fighter]], and the 1000S won a silver medal from International Design Forum.&lt;ref name=motorcyclist/&gt;&lt;ref name=motorcycleusa/&gt; Initial reports were that this would have a V-twin engine, but MZ eventually opted for a parallel-twin instead with a 180° crank.&lt;ref&gt; Motorcycle News October 2002&lt;/ref&gt; The frame is a twin-spar design, not unlike that of the [[Aprilia SL1000 Falco|Aprilia Falco]]; but whereas the Falco has an alloy frame, the MZ used chrome-moly steel. The prototype model of the 1000S was previewed during [[Intermot]] 2000 in Germany and went into production in 2003. The bike initially sold well, particularly in Germany.  MZ, who had grand plans to become a major world manufacturer, went on to produce some variants of the 1000S such as the MZ 1000SF naked bike and MZ 1000ST sports touring bike. Financial troubles set in and the MZ factory was closed.
+
+==Model range==
+
+===MZ 1000S===
+Although the '''S''' model is a [[sport bike]] with [[clip-ons]] and rear-set footrests, the bike is nevertheless comfortable and capable of touring with a pillion passenger. Its engine is a [[Radiator|liquid-cooled]] 999&amp;nbsp;cc [[DOHC]] 8-valve [[4-stroke]] 40° inclined parallel twin with a 180° crankshaft, and a balance shaft.{{Vague|date=June 2015}}&lt;ref&gt;MZ 1000S Spares Catalogue&lt;/ref&gt; It has electronic [[fuel injection]], and [[Wet sump|wet-sump]] lubrication. It has [[Nissin Kogyo|Nissin]] brakes, [[Marzocchi]] male-slider forks, and an alloy [[cantilever]] [[swinging arm|swingarm]] rear suspension. Although the engine is compact, the bike is fairly heavy at 208&amp;nbsp;kg (dry).
+
+===MZ 1000ST===
+The '''ST''' is a milder [[sport touring|sports-tourer]] motorcycle based on the "S". The engine is detuned for more torque but still produces {{convert|83|kW|hp|abbr=on}}. Compared to the "S", the ST is modified for touring comfort, with higher handlebars and lower footrests to provide a roomier seating position for long distance riding. The screen is 30&amp;nbsp;mm higher for better wind protection. A plusher rear seat provides more comfort for the pillion. The ST's engine has altered clutch springs to reduce the effort required to operate the clutch. {{ill|Krauser GmbH|de|Krauser (Unternehmen)|lt=Krauser}} hard luggage may be fitted, and a steering damper keeps the bike stable when fully loaded.
+[[File:MZ 1000SF right front view.JPG|upright|thumb|MZ 1000SF]]
+[[File:MZ 1000 S und SF.jpg|thumb|S &amp; SF bikes together]]
+
+=== MZ 1000SF ===
+The '''SF''' "SuperFighter" is a naked [[streetfighter]], using the same engine as the ST.&lt;ref name=visordown&gt;{{cite web |url=http://www.visordown.com/reviews/motorcycles/naked/mz-1000sf//|title=MZ 1000SF review | publisher=Visor Down|accessdate=January 27, 2017|date=January 1, 2006 }}&lt;/ref&gt;
+
+==Reception==
+The MZ 1000 was quite well received, although [[Motorcycle News|MCN]] journalists thought it rather expensive and "poor value". MCN damned the bike with faint praise, saying: "But as the [[Yamaha TRX850]] demonstrated, many bikers aren't especially keen on parallel twins..." and "MZ is trying something different with its parallel twin 1000S and Streetfighter, but it lacks the X factor and doesn't have the kind of dealer/distributor back-up you need when buying a slightly oddball motorbike."&lt;ref name=MCN/&gt;
+
+However, in a four-bike comparison test in 2005 between the [[Honda VTR1000F|Honda Firestorm]], [[Ducati SuperSport|Ducati 1000SS]], [[Suzuki SV1000]], ''Fast Bikes'' magazine declared the MZ 1000S the clear winner, saying: "It combines the uniqueness and style of the Italian, with the usability and build quality of the Japanese, and to top it all off is far more fun to ride than any of them."&lt;ref&gt;''Fast Bikes'' January 2005 page 57&lt;/ref&gt;
+
+[[Motorcyclist (magazine)|Motorcyclist]] praised the bike saying: "The MZ 1000 is a well-engineered, capable machine that is built to last..."
+
+==References==
+{{Reflist|refs=
+&lt;ref name=motorcycleusa&gt;{{cite web |url=http://www.motorcycle-usa.com/2005/01/article/2005-mz-1000s///|last=Bruder  |first=Grosser  |title=2005 MZ 1000S| publisher=Motorcycle USA|accessdate=January 28, 2017|date=January 28, 2005 }}&lt;/ref&gt;
+
+&lt;ref name=MCN&gt;{{cite web |url=http://www.motorcyclenews.com/bike-reviews/mz/1000s/2004///|title=MZ 1000S (2004-2007) Review| publisher=[[Motorcycle News]]|accessdate=January 27, 2017|date=November 23, 2006 }}&lt;/ref&gt;
+
+}}
+==External links==
+* [http://www.muz.de MZ Motorrad Germany]
+* [http://www.visordown.com/reviews/motorcycles/sports-tourers/mz-1000s-2004---2007/review/4132.html Visordown review]
+* [http://www.motorcyclenews.com/bike-reviews/mz/1000s/2004/ Motorcycle News review]
+* [http://www.motorbikestoday.com/reviews/Articles/mz_1000s.htm Motorbikes Today review]
+* [http://www.motorcycle-usa.com/16/361/Motorcycle-Article/2004-MZ-1000S.aspx Motorcycle USA review 2004]
+* [http://www.motorcycle-usa.com/18/847/Motorcycle-Article/2005-MZ-1000S.aspx Motorcycle USA review 2005]
+
+[[Category:MZ motorcycles|1]]
+[[Category:Motorcycles introduced in 2004]]
+[[Category:Sport bikes]]
+[[Category:Sport touring motorcycles]]
+[[Category:Motorcycles powered by straight-twin engines]]</text>
+      <sha1>gw5nrekwzv7t6stnok6ui9e2c6m1pgx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Triumph Thunderbird (2009)</title>
+    <ns>0</ns>
+    <id>19177584</id>
+    <revision>
+      <id>1064074585</id>
+      <parentid>1032246308</parentid>
+      <timestamp>2022-01-06T12:40:11Z</timestamp>
+      <contributor>
+        <username>Dawnseeker2000</username>
+        <id>1544984</id>
+      </contributor>
+      <minor/>
+      <comment>[[Template:Use dmy dates|date format audit]], access-date= is not necessary when a permanent identifier is used or if a date or year field is present</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7313" xml:space="preserve">{{short description|British motorcycle}}
+{{about|the Triumph motorcycle manufactured since 2009|other motorcycles bearing the same name|Triumph Thunderbird (disambiguation)}}
+{{Use dmy dates|date=January 2022}}
+{{Infobox Motorcycle
+|name=Triumph Thunderbird
+|image = Triumph Thunderbird1600 2.jpg
+|image_size = 250px
+|caption= 2010 Triumph Thunderbird
+|aka=
+|manufacturer= [[Triumph Motorcycles Ltd|Triumph]]
+|production= 2009&amp;ndash;
+|class= [[Cruiser (motorcycle)|Cruiser]]
+|related= 
+|suspension = Front: 47&amp;nbsp;mm Showa forks &lt;br/&gt;Rear: Twin spring shock absorbers
+|tires= Front: 120/70 R19&lt;br/&gt;Rear: 200/50 R17
+|brakes= Front: Twin 310&amp;nbsp;mm floating discs. Nissin 4-piston fixed callipers &lt;br/&gt;Rear: Single 310&amp;nbsp;mm fixed disc. Brembo 2-piston floating calliper &lt;br&gt;Optional ABS
+|wheelbase= {{convert|1615|mm|in||abbr=on}}
+|length= {{convert|2340|mm|in|1|abbr=on}}
+|width= {{convert|880|mm|in|1|abbr=on}} (including handlebars)
+|height= {{convert|1120|mm|in|1|abbr=on}}
+|seat height= {{convert|700|mm|in|1|abbr=on}}
+|engine={{convert|1597|cc|cuin|abbr=on|0}} or  {{convert|1699|cc|cuin|abbr=on|0}} &lt;br/&gt;DOHC four-stroke parallel-twin 
+|bore_stroke = 1,600&amp;nbsp;cc: {{convert|103.8|x|94.3|mm|abbr=on}} &lt;br/&gt;1,700&amp;nbsp;cc: {{convert|107.1|x|94.3|mm|abbr=on}}
+|power= 1,600&amp;nbsp;cc: {{convert|85|bhp|kW PS|abbr=on}} @ 4,850&amp;nbsp;rpm&lt;ref name=truk1600&gt;{{cite web | url= http://www.triumphmotorcycles.co.uk/motorcycles/range/cruisers/thunderbird/2011/thunderbird/2740 |title= Triumph Thunderbird Specifications | publisher= Triumph Motorcycles Ltd | accessdate= 14 September 2011}}&lt;/ref&gt;&lt;br/&gt;1,700&amp;nbsp;cc: {{convert|97|bhp|kW PS|abbr=on}} @ 5,200&amp;nbsp;rpm&lt;ref name=truk1700&gt;{{cite web | url= http://www.triumphmotorcycles.co.uk/motorcycles/range/cruisers/thunderbird/2011/thunderbird-storm/2774 |title= Triumph Thunderbird Storm Specifications | publisher= Triumph Motorcycles Ltd | accessdate= 14 September 2011}}&lt;/ref&gt;
+|torque= 1,600&amp;nbsp;cc: {{convert|108|ft.lbf|Nm|abbr=on}} @ 2,750&amp;nbsp;rpm&lt;ref name=truk1600/&gt;&lt;br/&gt;1,700&amp;nbsp;cc: {{convert|115|ft.lbf|Nm|abbr=on}} @ 2,950&amp;nbsp;rpm&lt;ref name=truk1700/&gt;
+|wet_weight= {{convert|339|kg|abbr=on}}
+|fuel_capacity= {{convert|22|L|abbr=on}}
+|fuel_economy= 
+|transmission= 6-speed [[Gilmer belt|belt drive]] 
+|sp = uk
+}}
+
+The '''Triumph Thunderbird''' is [[Triumph Motorcycles Ltd|Triumph]] [[motorcycle]] made in [[Hinckley]], England, and sold since June 2009.&lt;ref name=torygraph&gt;{{cite news | url= https://www.telegraph.co.uk/motoring/motorbikes/5357085/Triumph-Thunderbird-review.html | archive-url= https://web.archive.org/web/20090524200708/http://www.telegraph.co.uk/motoring/motorbikes/5357085/Triumph-Thunderbird-review.html | url-status= dead | archive-date= 24 May 2009 | title= Triumph Thunderbird review | last= Ash | first= Kevin |authorlink=Kevin Ash | newspaper= [[The Daily Telegraph]] | date= 22 May 2009 | accessdate= 23 May 2009}}&lt;/ref&gt;  
+The name "Thunderbird" is revived from a previous Triumph three-cylinder 885&amp;nbsp;cc bike. The name was previously applied to a single carburettor version of the 650cc twin Bonneville produced in the mid-1960s for police work. The final iteration was the Thunderbird Sport, last made in 2004.
+
+==Design==
+[[File:2011Sept 021.jpg|thumb|left|2011 Triumph Thunderbird Storm]]
+The Thunderbird is a [[Cruiser (motorcycle)|cruiser]] with a large 200/50 R17 rear tyre.  [[Motorcycle design|Design]] was by [[Tim Prentice (designer)|Tim Prentice]] in [[California]].&lt;ref name=torygraph/&gt;&lt;ref&gt;{{citation|title=2-wheel lowdown|last=Winfield|first=Barry|journal=[[Autoweek]]|page=40|volume=59|number=20|date=October 2009|id={{ProQuest|218931195}}}}&lt;/ref&gt; The [[DOHC]] eight-valve [[Straight-twin engine|parallel-twin engine]] has two [[balance shaft]]s and a [[Straight-twin engine#270°|270° crank]], which imitates the sound and feel of a [[V-twin engine|V-twin]].  The {{convert|1597|cc|cuin||abbr=on}} engine was originally intended to be [[modular design|modular]], namely "two-thirds of" a [[Triumph Rocket III]] engine; but after four years of development, the only parts in common are the valves.  Power output is {{convert|85|bhp|kW PS|abbr=on}} and torque is {{convert|108|lb.ft|abbr=on}}.&lt;ref name=torygraph/&gt; 
+The engine has two spark plugs per cylinder, which gives better combustion, resulting in lower fuel consumption, cleaner exhaust emissions, and more power. Brakes are double front discs with four-piston callipers, with a single rear disc also with two-piston callipers (ABS as option).&lt;ref&gt;{{cite web|url=http://www.twowheelsblog.com/post/477/2009-triumph-thunderbird-1600|title=Thunderbird 1600|accessdate=4 September 2008|url-status=dead|archiveurl=https://web.archive.org/web/20080814212847/http://www.twowheelsblog.com/post/477/2009-triumph-thunderbird-1600|archivedate=14 August 2008}}&lt;/ref&gt; Final drive is via a [[Gilmer belt|belt drive]].&lt;ref&gt;{{cite web|url=http://www.fasterandfaster.net/2008/07/first-pics-2009-triumph-thunderbird.html|title=First pics: 2009 Triumph Thunderbird 1600|accessdate=6 September 2008}}&lt;/ref&gt;
+
+In 2011, the Thunderbird Storm variant model was released featuring the previously-optional {{convert|1699|cc|cuin|abbr=on}} engine fitted as standard, twin headlamps and with a number of black, rather than chrome parts&lt;ref&gt;{{cite web | url= http://www.motorcycle.com/manufacturer/triumph/2011-triumph-thunderbird-storm-review-90408.html | first= Troy | last= Siahaan| date= 8 February 2011 | publisher= Motorcycle.com | title= 2011 Triumph Thunderbird Storm Review | accessdate= 17 June 2011}}&lt;/ref&gt;
+{{clear left}}
+
+==Reception==
+
+A road test of the Thunderbird by ''[[Motorcycle News]]'' in May 2009,&lt;ref&gt;{{cite news | url= http://www.motorcyclenews.com/MCN/News/newsresults/First-rides--tests/2009/May/may1409-triumph-thunderbird-first-ride/ | publisher= [[Motorcycle News]] | title=  First ride: Triumph Thunderbird | date= 14 May 2009 | accessdate= 23 May 2009}}&lt;/ref&gt;
+found that the motorcycle performed well, and handling and braking were significantly superior to comparable American or Japanese cruiser models.
+In 2009 and 2010, US motorcycle magazine ''[[Cycle World]]'' awarded the Thunderbird "Best Cruiser" in its annual "Ten Best Bikes" feature.&lt;ref&gt;{{cite magazine | title= 2010 Ten Best Bikes Best Cruiser: Triumph Thunderbird 1600 | url= http://www.cycleworld.com/motorcycle_roadtest/ten_best_bikes_2010/best_cruiser_triumph_thunderbird_1600 | magazine= Cycle World |date=July 2010 | issn= 0011-4286}}&lt;/ref&gt;
+
+==Variants==
+* Triumph Thunderbird with 1,597&amp;nbsp;cc engine (since 2009)&lt;ref name="MCN"&gt;{{cite web|url=http://www.motorcyclenews.com/MCN/bikereviews/searchresults/Bike-Reviews/Triumph/Triumph-Thunderbird-Storm-2011-current/|title=TRIUMPH THUNDERBIRD 1700 STORM (2011-on) Review}}&lt;/ref&gt;
+* Triumph Thunderbird 'Storm', with 1,699&amp;nbsp;cc engine (since 2011)&lt;ref name="MCN"/&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.triumphmotorcycles.co.uk/motorcycles/range/cruisers/thunderbird Triumph Thunderbird] at Triumph Motorcycles
+*{{commons category-inline|Triumph Thunderbird 1600}}
+
+{{Triumph motorcycles Hinckley}}
+
+[[Category:Triumph Motorcycles Ltd motorcycles|Thunderbird (2009)]]
+[[Category:Cruiser motorcycles]]
+[[Category:Motorcycles introduced in 2009]]
+[[Category:Motorcycles powered by straight-twin engines]]</text>
+      <sha1>intvho6s621x6al00dy8yeuomd9bfiv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Yamaha WR250F</title>
+    <ns>0</ns>
+    <id>23513306</id>
+    <revision>
+      <id>1091657809</id>
+      <parentid>1081725422</parentid>
+      <timestamp>2022-06-05T15:39:02Z</timestamp>
+      <contributor>
+        <username>Ira Leviton</username>
+        <id>25046916</id>
+      </contributor>
+      <minor/>
+      <comment>Fixed a typo found with [[Wikipedia:Typo_Team/moss]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4330" xml:space="preserve">{{Infobox Motorcycle
+|name             = Yamaha WR250F 
+|image            =File:2002WR250F.jpg
+|aka              = 
+|manufacturer     = [[Yamaha Motor Company]]
+|parent_company   = 
+|production       = 
+|model_year       = 2001 - present
+|predecessor      = 
+|successor        = 
+|class            = [[types of motorcycles#Off-road|Off road]], [[Enduro motorcycle|Enduro]]
+|engine           = {{convert|246|cc|cuin|abbr=on}} [[Single-cylinder]]; [[four-stroke]], [[Radiator (engine cooling)|liquid-cooled]], [[DOHC]], [[Multivalve|5 titanium valves]]
+|bore_stroke      = {{Convert|77.0|x|53.6|mm|abbr=on}}
+|compression      = 12.5:1
+|ignition         = [[Capacitor discharge ignition|CDI]]
+|top_speed        = 
+|torque           = 
+|power            = 
+|transmission     = Constant-mesh 6-speed; multiplate wet clutch, chain drive&lt;ref name="dr2014" /&gt;
+|suspension       = Front: Inverted telescopic fork; fully adjustable, {{Convert|11.8|in|abbr=on}} travel&lt;br&gt;
+Rear: single shock; fully adjustable, {{Convert|12.2|in|abbr=on}} travel
+|brakes           = Front: hydraulic single disc brake, 250&amp;nbsp;mm&lt;br&gt;Rear: hydraulic single disc brake, 245&amp;nbsp;mm
+|tires            = Front: 80/100-21 51M&lt;br&gt; Rear: 100/100-18-59M
+|rake_trail       = 
+|wheelbase        = {{Convert|58.3|in|abbr=on}}
+|length           = {{Convert|85.2|in|abbr=on}}
+|width            = {{Convert|32.5|in|abbr=on}}
+|height           = {{Convert|51.1|in|abbr=on}}
+|seat_height      = {{Convert|38.6 |in|abbr=on}}
+|dry_weight       =  
+|wet_weight       =  {{Convert|256|lb|abbr=on}} (claimed)&lt;ref name=Official&gt;{{Official|http://www.yamaha-motor.com/sport/products/modelspecs/66/0/specs.aspx}}&lt;/ref&gt;
+|fuel_capacity    =  {{Convert|2.1|usgal|abbr=on}}
+|oil_capacity     = 
+|fuel_consumption = {{Convert|71|mpgus|abbr=on}}{{cn|date=March 2011}}
+|turning_radius   = 
+|climbing_ability = 
+|related          = [[Yamaha YZ250F]]
+[[Yamaha WR450F]]
+[[Yamaha WR250R]]
+
+}}
+The '''Yamaha WR250F''' is an [[types of motorcycles#Off-road|off-road]] motorcycle made by [[Yamaha Motor Company]]. It has a {{Convert|250|cc|abbr=on}} [[Radiator (engine cooling)|liquid-cooled]] [[single-cylinder|single]] [[nikasil]] coated [[cylinder (engine)|cylinder]] engine.  First offered in 2001, it shared many components and design concepts with the [[Yamaha YZ250F|YZ250F]] motocross model. It is basically the YZ250F detuned slightly for more controllable power, with a headlight and lighting coil, softer suspension, a [[kickstand]], better noise specifications, larger radiators, and lower emissions. The WR250F is basically a YZ250F modified for enduro competitions, extreme enduro competitions and hard enduro competitions and the practice of these extreme sports. &lt;ref&gt;http://www.totalmotorcycle.com/photos/2008models/2008models-Yamaha-WR250F.htm Total motorcycle.com 2008 Yamaha WR250F&lt;/ref&gt;  The WR in the name indicates a [[Gear ratio#Wide-ratio vs. close-ratio transmission|wide-ratio gear box]] common to most [[Enduro motorcycle|enduro]] or trail bikes and stands in contrast to the close-ratio gearbox essential to a [[motocross]] racer. Over the years the WR250F has benefited from the advances made in the YZ motocross version gaining advancements such as an aluminum frame and improved suspension.
+
+Despite the similar name, it shares very few common components with the heavier, street-legal dual sport dirt oriented [[Yamaha WR250R|WR250R]]  or its sister supermoto build WR250X.
+
+==Significant advances==
+
+{| class="wikitable"
+|-
+| 2003 || Automatic decompression exhaust cam and electric starting
+|-
+| 2006 || Digital display
+|-
+| 2007|| Aluminium frame
+|-
+| 2015|| Bilateral beam frame, 6-speed transmission, Rear slant cylinder, KYB SSS Forks, and Fuel Injection&lt;ref name="dr2014"&gt;{{cite web |last1=Dension |first1=Chris |last2=Booth |first2=Adam |title=First Impression: 2015 Yamaha WR250F |url=https://www.dirtrider.com/features/2015-yamaha-wr250f-first-impression#page-4 |website=Dirt Rider |access-date=7 May 2019 |date=12 December 2014}}&lt;/ref&gt;
+
+|}
+
+== See also ==
+* [[Yamaha WR250R]]
+* [[Yamaha WR450F]]
+* [[Yamaha YZ250F]]
+
+
+== References ==
+{{commonscat|Yamaha WR}} 
+{{Reflist|30em}}
+
+{{Yamaha motorcycles}}
+{{Yamaha motorcycles timeline}}
+
+[[Category:Yamaha motorcycles|WR250R]]
+[[Category:Off-road motorcycles]]
+[[Category:Motorcycles introduced in 2001]]</text>
+      <sha1>jxnt50vvgq7scvwmy6h9vimn5fuz1bm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Honda CBX550F</title>
+    <ns>0</ns>
+    <id>45198478</id>
+    <revision>
+      <id>1017359742</id>
+      <parentid>985736279</parentid>
+      <timestamp>2021-04-12T10:01:11Z</timestamp>
+      <contributor>
+        <username>Cewbot</username>
+        <id>23646674</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Cewbot/log/20201008/configuration|Fix broken anchor]]: Wrong capitalization / spaced section title #sport touring→[[Types of motorcycles#Sport touring]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5070" xml:space="preserve">{{Hatnote|For other Honda Motorcycles with CBX prefix, see [[Honda CBX (disambiguation)]]}}
+{{Infobox motorcycle
+|name             = Honda CBX550F
+|image            = Honda CBX550 cropped.jpg
+|image_size       = 
+|aka              = CBX550 Four
+|manufacturer     = [[Honda|Honda Motor Company]]
+|parent_company   = 
+|production       = 1982–1986
+|assembly         =
+|predecessor      = 
+|successor        = 
+|class            = [[Types of motorcycles#Sport touring|Sport touring]]
+|engine           = {{convert|572.5|cc|abbr=on}} [[Four stroke]] [[Multi-cylinder engine#Four-cylinder engines|in-line four]]
+|bore_stroke      = {{convert|59.2|x|52.0|mm|abbr=on}}
+|compression      = 9.5:1
+|top_speed        = 
+|power            = 
+|torque           = 
+|ignition         = Transistorised
+|transmission     = 6-[[Gear train|speed]] [[Manual transmission|manual]], [[Roller chain|chain]] final drive
+|frame            = [[Motorcycle frame|Duplex cradle; tubular steel]]
+|suspension       = [[Motorcycle fork#Telescopic|Telescopic]] with air assistance front: cantilever with air assistance, rear&lt;ref&gt;{{cite book|last=Shoemark|first=Pete|title=Honda CBX550 572.5cc 1982 to 1986: Owners Workshop Manual|date=1989|publisher=Haynes|page=90|ISBN=0856969400}}&lt;/ref&gt;
+|brakes           = Front: [[Disc brakes|Twin hydraulic disc]]&lt;br /&gt;Rear: single hydraulic disc
+|tires            = 3.60H18-4PR, front: 4.10H18-4PR, rear
+|rake_trail       = 
+|wheelbase        = {{convert|1.380|m|abbr=on}}
+|length           = {{convert|2.085|m|abbr=on}}
+|width            = {{convert|0.740|m|abbr=on}}
+|height           = {{convert|1.080|m|abbr=on}} (F)&lt;br&gt;{{convert|1.270|m|abbr=on}} (F II)
+|seat_height      = {{convert|0.785|m|abbr=on}}
+|dry_weight       = {{convert|184|kg|abbr=on}} (F)&lt;br&gt;{{convert|190|kg|abbr=on}} (F II)&lt;ref name ="ReferenceA"/&gt;
+|wet_weight       = 
+|fuel_capacity    = {{convert|17.0|l|abbr=on}}
+|oil_capacity     = {{convert|3.0|l|abbr=on}}
+|fuel_consumption = 
+|turning_radius   = 
+|related          = [[Honda CBX1000]]&lt;br /&gt;[[Honda CBX750]]&lt;br /&gt;[[Honda CBX650]]&lt;br /&gt;[[Honda CBX400F]]&lt;br /&gt;[[Honda CBX series#CBX 250|Honda CBX250]]
+|sp               =  uk
+}}
+
+The '''Honda CBX550F''' is a [[Four-stroke engine|four-stroke]], [[Multi-cylinder engine#Four-cylinder engines|in line four cylinder]], [[Types of motorcycles#Sport touring|sport tourer]] motorcycle produced from 1982 to 1986 by the [[Honda|Honda Motor Company]].&lt;ref name="Haynes"&gt;{{cite book|last=Shoemark|first=Pete|title=Honda CBX550 572.5cc 1982 to 1986: Owners Workshop Manual|date=1989|publisher=Haynes|ISBN=0856969400}}&lt;/ref&gt; The CBX550F II is identical apart from the addition of a [[Motorcycle fairing#Half fairing|half-fairing]].&lt;ref name="ReferenceA"&gt;{{cite book|last=Shoemark|first=Pete|title=Honda CBX550 572.5cc 1982 to 1986: Owners Workshop Manual|date=1989|publisher=Haynes|page=6|ISBN=0856969400}}&lt;/ref&gt;
+
+Although the model was designated ''550'', the actual capacity was {{convert|572.5|cc|abbr=on}}.&lt;ref name="Haynes"/&gt; Honda developed a completely new, unusual design of engine to compete in the middleweight-sector with twin [[overhead camshaft]]s acting on [[Rocker arm|rockers]], having screw-adjusters for [[Four-stroke engine#Valve clearance|clearance]] which actuated the sixteen valves ([[Multi-valve|four per cylinder]]).
+
+The engine featured a standard [[Oil cooling|oil-cooler]] and a distinctive, unusual exhaust system, a first for Honda, with cross-over pipes directly in front of the engine linking cylinders one to four and a separate pair of pipes connecting cylinders two and three. The CV carburettors were of a new type using [[Carburetor#Choke|mixture-enriching]] internal fuel passages for cold-starts, with careful engineering of the inlet tracts to achieve smooth gasflow.&lt;ref&gt;''[[Motor Cycle News]]'' (UK weekly newspaper) 5 May 1982, p.21 ''Honda CBX550.This gem sets new standards'', Terry Snelling. Accessed and added 2015-11-02&lt;/ref&gt;
+
+The machine was noted for its use of inboard ventilated [[disc brakes]], the discs themselves being contained within a "drum" type enclosure.&lt;ref name ="ReferenceA"/&gt; Front suspension was by oil-damped [[Motorcycle fork#telescopic|telescopic fork]] with air assistance and incorporating an anti-dive mechanism in the left fork leg.&lt;ref name ="ReferenceA"/&gt; Rear suspension was by Honda's own "Pro-Link" rising rate system, which allows the suspension forces to vary in accordance with rear wheel movement.&lt;ref name ="ReferenceA"/&gt; The machine was equipped with transistorised ignition and electrics were 12 volt.
+
+==See also==
+*[[Honda CBX series]]
+*[[Honda CBX (disambiguation)]]
+
+==References==
+;Footnotes
+{{reflist}}
+
+;Sources
+Where not already otherwise noted, specifications obtained from, {{cite book|last=Shoemark|first=Pete|title=Honda CBX550 572.5cc 1982 to 1986: Owners Workshop Manual|date=1989|publisher=Haynes|ISBN=0856969400}}
+
+{{Honda_motorcycles_(1980s)}}
+
+{{DEFAULTSORT:HondaCbx550}}
+[[Category:Honda motorcycles|CBX550F]]
+[[Category:Motorcycles introduced in 1982]]
+[[Category:Sport touring motorcycles]]</text>
+      <sha1>odgfgi2eolym3fku40grg62heyxd1yy</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1019 @@
+(lp0
+(iresult
+Result
+p1
+(dp2
+S'category'
+p3
+S'standard motorcycle'
+p4
+sS'engine'
+p5
+S'1170'
+p6
+sS'title'
+p7
+S'BMW R1200R'
+p8
+sS'transmission'
+p9
+S'6-speed'
+p10
+sS'production'
+p11
+S'2006-2018'
+p12
+sS'moto_type'
+p13
+S'Standard'
+p14
+sS'manufacturer'
+p15
+S'BMW Motorrad'
+p16
+sba(iresult
+Result
+p17
+(dp18
+g3
+g4
+sg5
+S'998'
+p19
+sg7
+S'Ducati 999'
+p20
+sg9
+S'6-speed'
+p21
+sg11
+S'2003-2006'
+p22
+sg13
+S'Sport bike'
+p23
+sg15
+S'Ducati Motor Holding'
+p24
+sba(iresult
+Result
+p25
+(dp26
+g3
+g4
+sg5
+S'494'
+p27
+sg7
+S'Harley-Davidson Street'
+p28
+sg9
+S'6 speed'
+p29
+sg11
+S'2014-2021'
+p30
+sg13
+S'Cruiser (motorcycle)'
+p31
+sg15
+S'Harley-Davidson'
+p32
+sba(iresult
+Result
+p33
+(dp34
+g3
+S'---'
+p35
+sg5
+g35
+sg7
+S'Indian FTR'
+p36
+sg9
+S'6-speed'
+p37
+sg11
+S'2019-present'
+p38
+sg13
+S'Standard motorcycle'
+p39
+sg15
+S'Polaris Inc.'
+p40
+sba(iresult
+Result
+p41
+(dp42
+g3
+g4
+sg5
+S'998'
+p43
+sg7
+S'Kawasaki Ninja H2'
+p44
+sg9
+S'6-speed'
+p45
+sg11
+S'2015-present'
+p46
+sg13
+g35
+sg15
+S'Kawasaki Heavy Industries Motorcycle &amp; Engine'
+p47
+sba(iresult
+Result
+p48
+(dp49
+g3
+g4
+sg5
+S'998'
+p50
+sg7
+S'MZ 1000S'
+p51
+sg9
+S'6-speed'
+p52
+sg11
+S'2004-2007'
+p53
+sg13
+S'Sport bike'
+p54
+sg15
+S'MZ Motorrad- und Zweiradwerk'
+p55
+sba(iresult
+Result
+p56
+(dp57
+g3
+g4
+sg5
+S'1699'
+p58
+sg7
+S'Triumph Thunderbird (2009)'
+p59
+sg9
+S'6-speed'
+p60
+sg11
+S'2009-'
+p61
+sg13
+S'Cruiser (motorcycle)'
+p62
+sg15
+S'Triumph Motorcycles Ltd'
+p63
+sba(iresult
+Result
+p64
+(dp65
+g3
+g4
+sg5
+S'572.5'
+p66
+sg7
+S'Honda CBX550F'
+p67
+sg9
+g35
+sg11
+S'1982-1986'
+p68
+sg13
+S'Sport touring'
+p69
+sg15
+S'Honda'
+p70
+sba(iresult
+Result
+p71
+(dp72
+g3
+S'standard motorcycle'
+p73
+sg5
+S'49'
+p74
+sg7
+S'Honda SFX50'
+p75
+sg9
+S'---'
+p76
+sg11
+S'1995-2004 '
+p77
+sg13
+S'Moped'
+p78
+sg15
+S'Honda'
+p79
+sba(iresult
+Result
+p80
+(dp81
+g3
+S'standard motorcycle'
+p82
+sg5
+S'350'
+p83
+sg7
+S'Velocette MAC'
+p84
+sg9
+S'Four-speed'
+p85
+sg11
+S'1946-59'
+p86
+sg13
+S'---'
+p87
+sg15
+S'Velocette'
+p88
+sba(iresult
+Result
+p89
+(dp90
+g3
+g82
+sg5
+S'200'
+p91
+sg7
+S'Velocette LE'
+p92
+sg9
+S'four-speed'
+p93
+sg11
+S'1948-1971'
+p94
+sg13
+g87
+sg15
+S'Velocette'
+p95
+sba(iresult
+Result
+p96
+(dp97
+g3
+g82
+sg5
+S'500'
+p98
+sg7
+S'Royal Enfield Bullet'
+p99
+sg9
+S'5-speed'
+p100
+sg11
+S'Since 1931'
+p101
+sg13
+S'Standard'
+p102
+sg15
+S'Royal Enfield'
+p103
+sba(iresult
+Result
+p104
+(dp105
+g3
+g82
+sg5
+S'125'
+p106
+sg7
+S'Yamaha YZF-R125'
+p107
+sg9
+S'6-speed'
+p108
+sg11
+S'2008-'
+p109
+sg13
+S'Sport bike'
+p110
+sg15
+S'Yamaha Motor Company'
+p111
+sba(iresult
+Result
+p112
+(dp113
+g3
+g82
+sg5
+S'646'
+p114
+sg7
+S'Matchless G12'
+p115
+sg9
+S'Four speed'
+p116
+sg11
+S'1958-1966'
+p117
+sg13
+g87
+sg15
+S'Associated Motorcycles'
+p118
+sba(iresult
+Result
+p119
+(dp120
+g3
+g82
+sg5
+S'646'
+p121
+sg7
+S'AJS Model 31'
+p122
+sg9
+S'Four speed'
+p123
+sg11
+S'1958-1966'
+p124
+sg13
+g87
+sg15
+S'Associated Motorcycles'
+p125
+sba(iresult
+Result
+p126
+(dp127
+g3
+g82
+sg5
+S'743'
+p128
+sg7
+S'Yamaha TX750'
+p129
+sg9
+S'Five-speed'
+p130
+sg11
+S'1972-1975'
+p131
+sg13
+S'Standard'
+p132
+sg15
+S'Yamaha Motor Company'
+p133
+sba(iresult
+Result
+p134
+(dp135
+g3
+g82
+sg5
+S'646'
+p136
+sg7
+S'Norton 650SS'
+p137
+sg9
+S'Four-speed'
+p138
+sg11
+S'1962-1967 '
+p139
+sg13
+g87
+sg15
+S'Norton Motorcycles'
+p140
+sba(iresult
+Result
+p141
+(dp142
+g3
+g82
+sg5
+S'500'
+p143
+sg7
+S'Norton International'
+p144
+sg9
+S'Four speed'
+p145
+sg11
+S'1931-1939, 1947-1958 (Model 30, Model 40)'
+p146
+sg13
+g87
+sg15
+S'Norton Motorcycle Company'
+p147
+sba(iresult
+Result
+p148
+(dp149
+g3
+g82
+sg5
+S'498'
+p150
+sg7
+S'Matchless G9'
+p151
+sg9
+S'Four speed'
+p152
+sg11
+S'1948-1958'
+p153
+sg13
+g87
+sg15
+S'Associated Motorcycles'
+p154
+sba(iresult
+Result
+p155
+(dp156
+g3
+g82
+sg5
+S'498'
+p157
+sg7
+S'AJS Model 20'
+p158
+sg9
+S'Four speed'
+p159
+sg11
+S'1948-1958'
+p160
+sg13
+g87
+sg15
+S'Associated Motorcycles'
+p161
+sba(iresult
+Result
+p162
+(dp163
+g3
+g82
+sg5
+S'596'
+p164
+sg7
+S'Scott Flying Squirrel'
+p165
+sg9
+S'Three speed'
+p166
+sg11
+S'1926-1940'
+p167
+sg13
+g87
+sg15
+S'The Scott Motorcycle Company'
+p168
+sba(iresult
+Result
+p169
+(dp170
+g3
+g82
+sg5
+S'653'
+p171
+sg7
+S'Silk 700S'
+p172
+sg9
+S'four speed'
+p173
+sg11
+S'1975-1979'
+p174
+sg13
+g87
+sg15
+S'Silk Engineering'
+p175
+sba(iresult
+Result
+p176
+(dp177
+g3
+g82
+sg5
+S'198'
+p178
+sg7
+S'Honda CB200 and CL200'
+p179
+sg9
+g87
+sg11
+S'1973-1976'
+p180
+sg13
+S'Standard'
+p181
+sg15
+S'Honda'
+p182
+sba(iresult
+Result
+p183
+(dp184
+g3
+g82
+sg5
+S'399'
+p185
+sg7
+S'Honda CBR400'
+p186
+sg9
+g87
+sg11
+S'1983-2000, 2013-present (CBR400R)'
+p187
+sg13
+S'Sport bike'
+p188
+sg15
+S'Honda'
+p189
+sba(iresult
+Result
+p190
+(dp191
+g3
+g82
+sg5
+S'399'
+p192
+sg7
+S'Yamaha FZR400'
+p193
+sg9
+g87
+sg11
+S'1987-1994'
+p194
+sg13
+S'Sport bike'
+p195
+sg15
+S'Yamaha Motor Company'
+p196
+sba(iresult
+Result
+p197
+(dp198
+g3
+g82
+sg5
+S'50'
+p199
+sg7
+S'Honda Dio'
+p200
+sg9
+g87
+sg11
+S'1988-present '
+p201
+sg13
+S'Scooters, underbones and mopeds'
+p202
+sg15
+S'Honda'
+p203
+sba(iresult
+Result
+p204
+(dp205
+g3
+g82
+sg5
+S'125'
+p206
+sg7
+S'Yamaha TZR125'
+p207
+sg9
+g87
+sg11
+S'1987-1997'
+p208
+sg13
+S'Sport bike'
+p209
+sg15
+S'Yamaha Motor Company'
+p210
+sba(iresult
+Result
+p211
+(dp212
+g3
+g82
+sg5
+S'654'
+p213
+sg7
+S'BSA Lightning'
+p214
+sg9
+S'Four-speed'
+p215
+sg11
+S'1965-1972'
+p216
+sg13
+g87
+sg15
+S'Birmingham Small Arms Company#Motorcycles from 1910'
+p217
+sba(iresult
+Result
+p218
+(dp219
+g3
+g82
+sg5
+S'650'
+p220
+sg7
+S'BSA Lightning Clubman'
+p221
+sg9
+S'Four speed'
+p222
+sg11
+S'1964-65'
+p223
+sg13
+g87
+sg15
+S'Birmingham Small Arms Company'
+p224
+sba(iresult
+Result
+p225
+(dp226
+g3
+g82
+sg5
+S'654'
+p227
+sg7
+S'BSA Hornet'
+p228
+sg9
+S'Four speed'
+p229
+sg11
+S'1964-67'
+p230
+sg13
+g87
+sg15
+S'Birmingham Small Arms Company'
+p231
+sba(iresult
+Result
+p232
+(dp233
+g3
+g82
+sg5
+S'798'
+p234
+sg7
+S'BMW F series parallel-twin'
+p235
+sg9
+S'6-speed'
+p236
+sg11
+S'F800GS (2008-), F800GSA (2013-), F700GS (2012-), F650GS (2008-12)'
+p237
+sg13
+S'Dual-sport motorcycle'
+p238
+sg15
+S'BMW Motorrad'
+p239
+sba(iresult
+Result
+p240
+(dp241
+g3
+g82
+sg5
+S'900'
+p242
+sg7
+S'Aprilia Dorsoduro'
+p243
+sg9
+S'6-speed'
+p244
+sg11
+S'2008-2015 (750), 2011-present (1200), 2017-present (900)'
+p245
+sg13
+g87
+sg15
+S'Aprilia'
+p246
+sba(iresult
+Result
+p247
+(dp248
+g3
+g82
+sg5
+S'652'
+p249
+sg7
+S'BMW F series single-cylinder'
+p250
+sg9
+S'5-speed'
+p251
+sg11
+S'1993-2000'
+p252
+sg13
+S'Dual-sport motorcycle'
+p253
+sg15
+S'BMW Motorrad'
+p254
+sba(iresult
+Result
+p255
+(dp256
+g3
+g82
+sg5
+S'644'
+p257
+sg7
+S'Honda NX650 Dominator'
+p258
+sg9
+g87
+sg11
+S'1988-2003'
+p259
+sg13
+S'Dual-sport'
+p260
+sg15
+S'Honda'
+p261
+sba(iresult
+Result
+p262
+(dp263
+g3
+g82
+sg5
+S'798'
+p264
+sg7
+S'BMW F800S'
+p265
+sg9
+S'6-speed'
+p266
+sg11
+S'2006-2010'
+p267
+sg13
+S'Sport bike'
+p268
+sg15
+S'BMW Motorrad'
+p269
+sba(iresult
+Result
+p270
+(dp271
+g3
+g82
+sg5
+S'153'
+p272
+sg7
+S'Yamaha FZ16'
+p273
+sg9
+S'5-speed'
+p274
+sg11
+S'2008 to present'
+p275
+sg13
+g87
+sg15
+S'Yamaha Motor Company'
+p276
+sba(iresult
+Result
+p277
+(dp278
+g3
+g82
+sg5
+S'592'
+p279
+sg7
+S'Kawasaki Ninja 600R'
+p280
+sg9
+S'6-speed'
+p281
+sg11
+S'1985-1990 (GPZ), 1988-1997 (GPX)'
+p282
+sg13
+S'Sport bike'
+p283
+sg15
+S'Kawasaki motorcycles'
+p284
+sba(iresult
+Result
+p285
+(dp286
+g3
+g82
+sg5
+S'124.7'
+p287
+sg7
+S'Honda CBF125'
+p288
+sg9
+S'5-speed'
+p289
+sg11
+S'2008-2015 (CBF125), 2015-(CB125F)'
+p290
+sg13
+S'Types_of_motorcycles#Standard'
+p291
+sg15
+S'HMSI'
+p292
+sba(iresult
+Result
+p293
+(dp294
+g3
+g82
+sg5
+S'100'
+p295
+sg7
+S'Yamaha RS-100T'
+p296
+sg9
+S'4-speed'
+p297
+sg11
+S'1977-2005'
+p298
+sg13
+S'Two-stroke'
+p299
+sg15
+S'Yamaha Motor Company'
+p300
+sba(iresult
+Result
+p301
+(dp302
+g3
+g82
+sg5
+S'125'
+p303
+sg7
+S'Derbi GPR125'
+p304
+sg9
+S'6-speed'
+p305
+sg11
+S'2005-'
+p306
+sg13
+S'Sport bike'
+p307
+sg15
+S'Derbi'
+p308
+sba(iresult
+Result
+p309
+(dp310
+g3
+g82
+sg5
+S'627'
+p311
+sg7
+S'Honda CB650'
+p312
+sg9
+g87
+sg11
+S' 1979-1985'
+p313
+sg13
+S'Standard'
+p314
+sg15
+S'Honda'
+p315
+sba(iresult
+Result
+p316
+(dp317
+g3
+g82
+sg5
+S'650'
+p318
+sg7
+S'Triumph TR6 Trophy'
+p319
+sg9
+S'4-speed'
+p320
+sg11
+S'1956-1973'
+p321
+sg13
+g87
+sg15
+S'Triumph Engineering'
+p322
+sba(iresult
+Result
+p323
+(dp324
+g3
+g82
+sg5
+S'89.6'
+p325
+sg7
+S'Honda Sport 90'
+p326
+sg9
+S'4-speed'
+p327
+sg11
+S'1964-1975'
+p328
+sg13
+g87
+sg15
+S'Honda'
+p329
+sba.
